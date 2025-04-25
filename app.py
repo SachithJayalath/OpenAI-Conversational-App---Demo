@@ -118,7 +118,7 @@ def main():
     st.set_page_config(
         page_title="ACWA Conversational Assistant :satellite::milky_way:", page_icon=":milky_way:")
 
-    st.header("ACWA Conversational Assistant :satellite::milky_way:")
+    st.header("ACWA Power :satellite::milky_way:")
 
     if "message" not in st.session_state:
         st.session_state["message"] = ""
