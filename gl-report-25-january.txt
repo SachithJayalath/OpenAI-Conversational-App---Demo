@@ -1,112 +1,112 @@
-Balance Sheet Line Item,MAIN_CATEGORY_2,MAIN_CATEGORY_3,Account Grouping,Account Name,Actual,Bud Var%,PM,Variance,Variance%,PY,Variance,Variance%
-Total Assets,Total Assets,Non Current Assets,Other Overheads - Staff,Allocation to BU’s,-4965023.4,3.6%,-5497374.7,532351.3,9.7%,-355331.6,-4609691.7,-1297.3%
-Total Assets,Total Assets,Non Current Assets,Other Overheads - Staff,Allocation to BD projects,-75116763.9,4.6%,-81806856.3,6690092.5,8.2%,-3330880.4,-71785883.5,-2155.2%
-Total Assets,Total Assets,Non Current Assets,Current assets,AR Control account (C) - Related parties -,2944896564.1,0.6%,2944896564.1,0.0,0.0%,376773841.6,2568122722.5,681.6%
-Total Assets,Total Assets,Current Assets,Current assets,Cash in hand (Petty cash float),262951.7,-0.9%,262951.7,0.0,0.0%,65679.2,197272.5,300.4%
-Total Assets,Total Assets,Current Assets,Current assets,Current accounts - AED,3394003.8,-0.7%,3394003.8,0.0,0.0%,1783001.6,1611002.2,90.4%
-Total Assets,Total Assets,Current Assets,Current assets,Current accounts - BHD,4451.8,-7.7%,4451.8,0.0,0.0%,,4451.8,
-Total Assets,Total Assets,Current Assets,Current assets,Current accounts - EGP,8.8,-4.9%,8.8,0.0,0.0%,0.0,8.8,
-Total Assets,Total Assets,Current Assets,Current assets,Current accounts - EUR,197626.9,-14.6%,197626.9,0.0,0.0%,98829.8,98797.1,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current accounts - GBP,56375.9,8.4%,56375.9,0.0,0.0%,28203.7,28172.2,99.9%
-Total Assets,Total Assets,Current Assets,Current assets,Current accounts - Other currencies,851590.2,-6.5%,851590.2,0.0,0.0%,1363850.2,-512259.9,-37.6%
-Total Assets,Total Assets,Current Assets,Current assets,Current accounts - SAR,16632904.8,2.6%,16632904.8,0.0,0.0%,4017989.1,12614915.7,314.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current accounts - Treasury Company Bank Account,19625694.7,113.3%,19625694.7,0.0,0.0%,-5627667.5,25253362.2,448.7%
-Total Assets,Total Assets,Current Assets,Current assets,Current accounts - USD,51900799.7,-0.9%,51900799.7,0.0,0.0%,35659801.2,16240998.5,45.5%
-Total Assets,Total Assets,Current Assets,Current assets,Fixed and term deposits - SAR,2692998.2,-10.3%,2692998.2,0.0,0.0%,542003291.4,-539310293.2,-99.5%
-Total Assets,Total Assets,Current Assets,Current assets,Fixed and term deposits - USD,458944823.5,-4.3%,458944823.5,0.0,0.0%,833972097.2,-375027273.7,-45.0%
-Total Assets,Total Assets,Current Assets,Current assets,Interest receivable (C) - General,2554533.6,19.0%,2554533.6,0.0,0.0%,8745573.2,-6191039.6,-70.8%
-Total Assets,Total Assets,Current Assets,Current assets,Interest receivable (C) - Related parties -,34731641.1,-6.8%,34731641.1,0.0,0.0%,30611946.6,4119694.5,13.5%
-Total Assets,Total Assets,Current Assets,Current assets,JPM Bank Account - Current,9065157.7,15.4%,9065157.7,0.0,0.0%,2753541.9,6311615.9,229.2%
-Total Assets,Total Assets,Current Assets,Current assets,JPM Holding Company Bank Accounts,-9215724.1,10.1%,-9215724.1,0.0,0.0%,3645768.7,-12861492.8,-352.8%
-Total Assets,Total Assets,Current Assets,Current assets,Other receivables,81604851.3,-0.6%,81604851.3,0.0,0.0%,42263898.2,39340953.1,93.1%
-Total Assets,Total Assets,Current Assets,Current assets,Prepaid expenses (C) - Insurrance,479942.0,-9.5%,479942.0,0.0,0.0%,367699.1,112242.9,30.5%
-Total Assets,Total Assets,Current Assets,Current assets,Prepaid expenses (C) - Others,15086928.6,-5.0%,15086928.6,0.0,0.0%,12685067.4,2401861.2,18.9%
-Total Assets,Total Assets,Current Assets,Current assets,Prepaid expenses (C) - Staff related,10692214.2,-12.4%,10692214.2,0.0,0.0%,6760204.3,3932009.9,58.2%
-Total Assets,Total Assets,Current Assets,Current assets,Projects in progress - In-house projects,9950.7,100.3%,9950.7,0.0,0.0%,928217.2,-918266.5,-98.9%
-Total Assets,Total Assets,Current Assets,Current assets,VAT INPUT,45261922.3,-1.4%,45261922.3,0.0,0.0%,9275283.8,35986638.6,388.0%
-Total Assets,Total Assets,Current Assets,Non current assets,Prepaid expenses (NC) - Others,29114.3,10.5%,29114.3,0.0,0.0%,,29114.3,
-Total Assets,Total Assets,Non Current Assets,Current assets,AR Control account (C) - Cost  Recoverable-Employees,-605067.7,9.9%,-605067.7,0.0,0.0%,-70599.1,-534468.5,-757.0%
-Total Assets,Total Assets,Non Current Assets,Current assets,AR Control account (C) - Credit Card Payments,1197204.4,-14.1%,1197204.4,0.0,0.0%,915571.1,281633.3,30.8%
-Total Assets,Total Assets,Non Current Assets,Current assets,AR Control account (C) - Employees,2076120.1,-15.7%,2076120.1,0.0,0.0%,1315251.6,760868.5,57.8%
-Total Assets,Total Assets,Non Current Assets,Current assets,AR Control account (C) - General,-86501.7,2.1%,-86501.7,0.0,0.0%,,-86501.7,
-Total Assets,Total Assets,Non Current Assets,Current assets,AR Control account (C) - Related parties - External,544755546.7,-5.2%,544755546.7,0.0,0.0%,103363536.4,441392010.3,427.0%
-Total Assets,Total Assets,Non Current Assets,Non current assets,AR Control account (NC) - Shareholder Loan -,13676931914.5,-0.9%,13676931914.5,0.0,0.0%,5883341493.9,7793590420.5,132.5%
-Total Assets,Total Assets,Non Current Assets,Non current assets,CIP Asset - Computer Software,828640.2,0.4%,828640.2,0.0,0.0%,395849.7,432790.5,109.3%
-Total Assets,Total Assets,Non Current Assets,Non current assets,CIP Asset - Free Hold Buildings,52395236.4,-10.3%,52395236.4,0.0,0.0%,10738096.7,41657139.7,387.9%
-Total Assets,Total Assets,Non Current Assets,Non current assets,CIP Asset - Furniture & Fixtures,488489.2,-11.2%,488489.2,0.0,0.0%,1755840.0,-1267350.7,-72.2%
-Total Assets,Total Assets,Non Current Assets,Non current assets,Cost - Other Intangible Assets,13442482.2,5.0%,13442482.2,0.0,0.0%,6721241.1,6721241.1,100.0%
-Total Assets,Total Assets,Non Current Assets,Non current assets,Investment in associates and JVs (net),1689988933.7,-5.7%,1689988933.7,0.0,0.0%,844994466.8,844994466.8,100.0%
-Total Assets,Total Assets,Non Current Assets,Non current assets,Investment in subsidiaries (net),12373341846.0,5.0%,12373341846.0,0.0,0.0%,5879307737.5,6494034108.5,110.5%
-Total Assets,Total Assets,Non Current Assets,Non current assets,Investments - Others (net),5385996.4,-13.8%,5385996.4,0.0,0.0%,2692998.1,2692998.3,100.0%
-Total Assets,Total Assets,Non Current Assets,Non current assets,Long term Inter company receivable,1654244.8,-13.1%,1654244.8,0.0,0.0%,827421.6,826823.2,99.9%
-Total Assets,Total Assets,Non Current Assets,Non current assets,Provision for impaired investments,-281357231.5,0.3%,-281357231.5,0.0,0.0%,-140678615.8,-140678615.8,-100.0%
-Total Assets,Total Assets,Non Current Assets,Other income,Gain / loss from disposal of PPE,-12183.5,6.3%,-12183.5,0.0,0.0%,-900.2,-11283.2,-1253.4%
-Total Assets,Total Assets,Non Current Assets,Other income,Interest income - Current accounts,-3641.3,-0.7%,-3641.3,0.0,0.0%,-418.5,-3222.8,-770.1%
-Total Assets,Total Assets,Non Current Assets,Other income,Interest income - Related parties -,-153228913.5,7.4%,-153228913.5,0.0,0.0%,-6255426.6,-146973486.8,-2349.5%
-Total Assets,Total Assets,Non Current Assets,Other Overheads - Provisions and write offs,Provision for impairment of dues from impaired investees,831556.4,-2.6%,831556.4,0.0,0.0%,35431.0,796125.4,2247.0%
-Total Assets,Total Assets,Non Current Assets,Other Overheads - Provisions and write offs,Provision for impairment of investments,348.9,5.7%,348.9,0.0,0.0%,,348.9,
-Total Equity & Liabilities,Equity,Equity,Accumulated earnings and other reserves,Capital reserves,16265709.2,-20.4%,16265709.2,0.0,0.0%,8132854.6,8132854.6,100.0%
-Total Equity & Liabilities,Equity,Equity,Current assets,Current accounts - Incoming clearing - Other currencies,0.1,7.2%,0.1,0.0,0.0%,0.0,0.1,
-Total Equity & Liabilities,Equity,Equity,Current assets,Current accounts - Incoming clearing - SAR,2530669.9,7.6%,2530669.9,0.0,0.0%,0.0,2530669.9,
-Total Equity & Liabilities,Equity,Equity,Current assets,Current accounts - Incoming clearing - USD,3138975.7,-14.1%,3138975.7,0.0,0.0%,1828064.0,1310911.7,71.7%
-Total Equity & Liabilities,Equity,Equity,Current assets,Current accounts - Outgoing clearing - SAR,8982079.8,-12.2%,8982079.8,0.0,0.0%,-415838.1,9397917.8,2260.0%
-Total Equity & Liabilities,Equity,Equity,Current assets,Current accounts - Outgoing clearing - USD,-0.3,12.6%,-0.3,0.0,0.0%,-4058.6,4058.2,100.0%
-Total Equity & Liabilities,Equity,Equity,Current assets,Intercompany clearing account - Receivables,-5143795.3,-9.9%,-5143795.3,0.0,0.0%,130976924.9,-136120720.2,-103.9%
-Total Equity & Liabilities,Equity,Equity,Current assets,Outgoing clearing - Treasury Company Bank Account,-83053.7,7.0%,-83053.7,0.0,0.0%,-8503187.3,8420133.6,99.0%
-Total Equity & Liabilities,Equity,Equity,Current assets,Prepayment clearing Account.,-3155.5,-39.7%,-3155.5,0.0,0.0%,-26792.8,23637.3,88.2%
-Total Equity & Liabilities,Equity,Equity,Current liabilities,AP Clearing account,-105180.0,10.1%,-105180.0,0.0,0.0%,-10912.4,-94267.6,-863.9%
-Total Equity & Liabilities,Equity,Equity,Current liabilities,Expense clearing account,0.4,-3.9%,0.4,0.0,0.0%,151081.7,-151081.2,-100.0%
-Total Equity & Liabilities,Equity,Equity,Current liabilities,Intercompany clearing account - Payables,-171957803.4,13.9%,-171957803.4,0.0,0.0%,-107824837.9,-64132965.5,-59.5%
-Total Equity & Liabilities,Equity,Equity,Current liabilities,Payroll clearing account,1121641.1,-12.3%,1121641.1,0.0,0.0%,-3200878.7,4322519.9,135.0%
-Total Equity & Liabilities,Equity,Equity,Hedge reserves,Other reserve - Retirement benefit obligations – OCI,6347694.0,-4.1%,6347694.0,0.0,0.0%,744373.3,5603320.7,752.8%
-Total Equity & Liabilities,Equity,Equity,Non current assets,Investments Clearing Account,82018069.4,-10.5%,82018069.4,0.0,0.0%,1975413.0,80042656.3,4051.9%
-Total Equity & Liabilities,Equity,Equity,Shareholders funds,Share capital - Ordinary shares,-6054531771.8,1.5%,-6054531771.8,0.0,0.0%,-3022046321.3,-3032485450.5,-100.3%
-Total Equity & Liabilities,Equity,Equity,Shareholders funds,Share premium,-3433840833.4,4.2%,-3433840833.4,0.0,0.0%,-1676561350.3,-1757279483.1,-104.8%
-Total Equity & Liabilities,Equity,Equity,System default accounts,AP_Initial upload clearing account,92.3,-5.9%,92.3,0.0,0.0%,46.1,46.1,100.0%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrued expenses - Insurance,-270755.4,2.9%,-270755.4,0.0,0.0%,-125021.3,-145734.1,-116.6%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrued expenses - Interest,5738384.5,-6.2%,5738384.5,0.0,0.0%,-13517681.2,19256065.7,142.5%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrued expenses - Others,-23383670.5,-1.9%,-23383670.5,0.0,0.0%,-32499667.5,9115997.0,28.0%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrued expenses - Service suppliers,-4931804.4,1.7%,-4931804.4,0.0,0.0%,-3740747.7,-1191056.8,-31.8%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrued expenses - Staff related,-74001039.4,20.2%,-74001039.4,0.0,0.0%,-50516683.8,-23484355.6,-46.5%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrued expenses - Utilities,-307070.1,-2.9%,-307070.1,0.0,0.0%,,-307070.1,
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,AP Control account - Employees,-299.2,16.7%,-299.2,0.0,0.0%,-141982.6,141683.3,99.8%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,AP Control account - Related parties -,-1533787054.3,-2.5%,-1533787054.3,0.0,0.0%,-286061415.1,-1247725639.2,-436.2%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,AP Control account - Related parties - External,-6262630.0,1.5%,-6262630.0,0.0,0.0%,-3131315.0,-3131315.0,-100.0%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,AP Control account - Trade,-20166048.0,-6.4%,-20166048.0,0.0,0.0%,-4294485.4,-15871562.6,-369.6%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,FV of derivative financial instruments (Liabilities - C),-196249213.4,13.0%,-196249213.4,0.0,0.0%,-0.1,-196249213.3,-252255719569.2%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,VAT OUTPUT,-52845118.7,1.1%,-52845118.7,0.0,0.0%,-10038361.7,-42806757.0,-426.4%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Zakat Payable,-52033742.8,3.9%,-52033742.8,0.0,0.0%,-29701612.5,-22332130.4,-75.2%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,AP Control account (NC) - Related parties -,-8231719250.4,-0.8%,-8231719250.4,0.0,0.0%,-3650061652.4,-4581657598.0,-125.5%
-Total Equity & Liabilities,Total Liabilities,Long Term Liabilities,Current liabilities,Long term loans (Capital outstanding) (C),-12330250.5,-3.2%,-12330250.5,0.0,0.0%,-7369134.1,-4961116.4,-67.3%
-Total Equity & Liabilities,Total Liabilities,Long Term Liabilities,Non current liabilities,End of service benefits,-55399729.5,-6.9%,-55399729.5,0.0,0.0%,-28526224.1,-26873505.4,-94.2%
-Total Equity & Liabilities,Total Liabilities,Long Term Liabilities,Non current liabilities,FV of derivative financial instruments (Liabilities - NC),-2242752.1,17.8%,-2242752.1,0.0,0.0%,-18000637.1,15757885.0,87.5%
-Total Equity & Liabilities,Total Liabilities,Long Term Liabilities,Non current liabilities,Lease liabilities (NC),-8760639.4,-12.8%,-8760639.4,0.0,0.0%,-4117189.9,-4643449.5,-112.8%
-Total Equity & Liabilities,Total Liabilities,Long Term Liabilities,Non current liabilities,Long term incentive Liability,-36299559.2,17.6%,-36299559.2,0.0,0.0%,-22992187.7,-13307371.4,-57.9%
-Total Equity & Liabilities,Total Liabilities,Long Term Liabilities,Non current liabilities,Long term loans (Capital outstanding) (NC),-4026783276.6,4.0%,-4026783276.6,0.0,0.0%,-1912021919.4,-2114761357.1,-110.6%
-Total Equity & Liabilities,Total Liabilities,Long Term Liabilities,Non current liabilities,Other payables (NC),-482257979.1,3.6%,-482257979.1,0.0,0.0%,-231734302.9,-250523676.1,-108.1%
-Total Equity & Liabilities,Total Liabilities,Long Term Liabilities,Other Overheads - Finance costs,Interest / commission  expenses - Long term loans,283299939.0,4.6%,283299939.0,0.0,0.0%,11750384.8,271549554.2,2311.0%
-Total Equity & Liabilities,Total Liabilities,Long Term Liabilities,Other Overheads - Staff,End of Service Benefit,14720449.7,-8.0%,14720449.7,0.0,0.0%,664216.8,14056232.9,2116.2%
-Total Assets,Total Assets,Current Assets,Current assets,Fixed and term deposits - AED,0.0,,0.0,0.0,,814763.8,-814763.8,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,FV of derivative financial instruments (Assets - C),0.0,,0.0,0.0,,,0.0,
-Total Assets,Total Assets,Current Assets,Non current assets,Other receivables (NC),0.0,,0.0,0.0,,,0.0,
-Total Assets,Total Assets,Non Current Assets,Non current assets,CIP Asset - Computer Hardware,0.0,,0.0,0.0,,137043.7,-137043.7,-100.0%
-Total Assets,Total Assets,Non Current Assets,Non current assets,CIP Asset - Office Equipment,0.0,,0.0,0.0,,,0.0,
-Total Equity & Liabilities,Equity,Equity,Current assets,AR Clearing account,0.0,,0.0,0.0,,2182.8,-2182.8,-100.0%
-Total Equity & Liabilities,Equity,Equity,Current assets,Current accounts - Incoming clearing - AED,0.0,,0.0,0.0,,0.0,0.0,
-Total Equity & Liabilities,Equity,Equity,Current assets,Current accounts - Incoming clearing - BHD,0.0,,0.0,0.0,,5386.0,-5386.0,-100.0%
-Total Equity & Liabilities,Equity,Equity,Current assets,Current accounts - Outgoing clearing - AED,0.0,,0.0,0.0,,-6408.8,6408.8,100.0%
-Total Equity & Liabilities,Equity,Equity,Current assets,Current accounts - Outgoing clearing - BHD,0.0,,0.0,0.0,,,0.0,
-Total Equity & Liabilities,Equity,Equity,Current assets,Current accounts - Outgoing clearing - Other currencies,0.0,,0.0,0.0,,0.0,0.0,
-Total Equity & Liabilities,Equity,Equity,Current assets,JPM Bank Account - Incoming clearing,0.0,,0.0,0.0,,0.0,0.0,
-Total Equity & Liabilities,Equity,Equity,Current assets,Ongoing clearing - Treasury Company Bank Account,0.0,,0.0,0.0,,0.0,0.0,
-Total Equity & Liabilities,Equity,Equity,Non current assets,CIP Clearing - Computer Hardware,0.0,,0.0,0.0,,99940.2,-99940.2,-100.0%
-Total Equity & Liabilities,Equity,Equity,Non current assets,CIP Clearing - Office Equipment,0.0,,0.0,0.0,,3900.7,-3900.7,-100.0%
-Total Equity & Liabilities,Equity,Equity,Non current assets,Cost clearing - Computer Hardware,0.0,,0.0,0.0,,0.0,0.0,
-Total Equity & Liabilities,Equity,Equity,Non current assets,Cost clearing - Computer Software,0.0,,0.0,0.0,,,0.0,
-Total Equity & Liabilities,Equity,Equity,Non current assets,Cost clearing - Furniture & Fixtures,0.0,,0.0,0.0,,0.0,0.0,
-Total Equity & Liabilities,Equity,Equity,Non current assets,Cost clearing - Office Equipment,0.0,,0.0,0.0,,,0.0,
-Total Equity & Liabilities,Equity,Equity,System default accounts,AR_Initial upload clearing account,0.0,,0.0,0.0,,0.0,0.0,-100.0%
-Total Equity & Liabilities,Equity,Equity,System default accounts,Bank account transfer clearing account,0.0,,0.0,0.0,,0.0,0.0,
-Total Equity & Liabilities,Equity,Equity,System default accounts,Clearing - Proceeds of sales,0.0,,0.0,0.0,,0.0,0.0,
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrued expenses - Board remuneration,0.0,,0.0,0.0,,-199481.2,199481.2,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Projects in progress - Development projects,106811183.7,0.6%,106811183.7,0.0,-0.0%,44892446.7,61918737.0,137.9%
+Balance Sheet Line Item,MAIN_CATEGORY_2,MAIN_CATEGORY_3,Account Grouping,Account Name,Actual,PM,Variance,Variance%,PY,Variance,Variance%
+Total Assets,Total Assets,Current Assets,Current assets,AR Control account (C) - Cost  Recoverable-Employees,-605068,-605068,0,0.0%,-70599,-534469,-757.0%
+Total Assets,Total Assets,Current Assets,Current assets,AR Control account (C) - Credit Card Payments,1197204,1197204,0,0.0%,915571,281633,30.8%
+Total Assets,Total Assets,Current Assets,Current assets,AR Control account (C) - Employees,2076120,2076120,0,0.0%,1315252,760868,57.8%
+Total Assets,Total Assets,Current Assets,Current assets,AR Control account (C) - General,-86502,-86502,0,0.0%,,-86502,
+Total Assets,Total Assets,Current Assets,Current assets,AR Control account (C) - Related parties -,2944896564,2944896564,0,0.0%,376773842,2568122723,681.6%
+Total Assets,Total Assets,Current Assets,Current assets,AR Control account (C) - Related parties - External,544755547,544755547,0,0.0%,103363536,441392010,427.0%
+Total Assets,Total Assets,Current Assets,Current assets,Cash in hand (Petty cash float),262952,262952,0,0.0%,65679,197272,300.4%
+Total Assets,Total Assets,Current Assets,Current assets,Current accounts - AED,3394004,3394004,0,0.0%,1783002,1611002,90.4%
+Total Assets,Total Assets,Current Assets,Current assets,Current accounts - BHD,4452,4452,0,0.0%,,4452,
+Total Assets,Total Assets,Current Assets,Current assets,Current accounts - EGP,9,9,0,0.0%,0,9,
+Total Assets,Total Assets,Current Assets,Current assets,Current accounts - EUR,197627,197627,0,0.0%,98830,98797,100.0%
+Total Assets,Total Assets,Current Assets,Current assets,Current accounts - GBP,56376,56376,0,0.0%,28204,28172,99.9%
+Total Assets,Total Assets,Current Assets,Current assets,Current accounts - Other currencies,851590,851590,0,0.0%,1363850,-512260,-37.6%
+Total Assets,Total Assets,Current Assets,Current assets,Current accounts - SAR,16632905,16632905,0,0.0%,4017989,12614916,314.0%
+Total Assets,Total Assets,Current Assets,Current assets,Current accounts - Treasury Company Bank Account,19625695,19625695,0,0.0%,-5627667,25253362,448.7%
+Total Assets,Total Assets,Current Assets,Current assets,Current accounts - USD,51900800,51900800,0,0.0%,35659801,16240998,45.5%
+Total Assets,Total Assets,Current Assets,Current assets,Fixed and term deposits - AED,0,0,0,,814764,-814764,-100.0%
+Total Assets,Total Assets,Current Assets,Current assets,Fixed and term deposits - SAR,2692998,2692998,0,0.0%,542003291,-539310293,-99.5%
+Total Assets,Total Assets,Current Assets,Current assets,Fixed and term deposits - USD,458944823,458944823,0,0.0%,833972097,-375027274,-45.0%
+Total Assets,Total Assets,Current Assets,Current assets,FV of derivative financial instruments (Assets - C),0,0,0,,,0,
+Total Assets,Total Assets,Current Assets,Current assets,Interest receivable (C) - General,2554534,2554534,0,0.0%,8745573,-6191040,-70.8%
+Total Assets,Total Assets,Current Assets,Current assets,Interest receivable (C) - Related parties -,34731641,34731641,0,0.0%,30611947,4119695,13.5%
+Total Assets,Total Assets,Current Assets,Current assets,JPM Bank Account - Current,9065158,9065158,0,0.0%,2753542,6311616,229.2%
+Total Assets,Total Assets,Current Assets,Current assets,JPM Holding Company Bank Accounts,-9215724,-9215724,0,0.0%,3645769,-12861493,-352.8%
+Total Assets,Total Assets,Current Assets,Current assets,Other receivables,81604851,81604851,0,0.0%,42263898,39340953,93.1%
+Total Assets,Total Assets,Current Assets,Current assets,Prepaid expenses (C) - Insurrance,479942,479942,0,0.0%,367699,112243,30.5%
+Total Assets,Total Assets,Current Assets,Current assets,Prepaid expenses (C) - Others,15086929,15086929,0,0.0%,12685067,2401861,18.9%
+Total Assets,Total Assets,Current Assets,Current assets,Prepaid expenses (C) - Staff related,10692214,10692214,0,0.0%,6760204,3932010,58.2%
+Total Assets,Total Assets,Current Assets,Current assets,Projects in progress - Development projects,106811184,106811184,0,0.0%,44892447,61918737,137.9%
+Total Assets,Total Assets,Current Assets,Current assets,Projects in progress - In-house projects,9951,9951,0,0.0%,928217,-918266,-98.9%
+Total Assets,Total Assets,Current Assets,Current assets,VAT INPUT,45261922,45261922,0,0.0%,9275284,35986639,388.0%
+Total Assets,Total Assets,Non Current Assets,Non current assets,AR Control account (NC) - Shareholder Loan -,13676931914,13676931914,0,0.0%,5883341494,7793590421,132.5%
+Total Assets,Total Assets,Non Current Assets,Non current assets,CIP Asset - Computer Hardware,0,0,0,,137044,-137044,-100.0%
+Total Assets,Total Assets,Non Current Assets,Non current assets,CIP Asset - Computer Software,828640,828640,0,0.0%,395850,432791,109.3%
+Total Assets,Total Assets,Non Current Assets,Non current assets,CIP Asset - Free Hold Buildings,52395236,52395236,0,0.0%,10738097,41657140,387.9%
+Total Assets,Total Assets,Non Current Assets,Non current assets,CIP Asset - Furniture & Fixtures,488489,488489,0,0.0%,1755840,-1267351,-72.2%
+Total Assets,Total Assets,Non Current Assets,Non current assets,CIP Asset - Office Equipment,0,0,0,,,0,
+Total Assets,Total Assets,Non Current Assets,Non current assets,Cost - Other Intangible Assets,13442482,13442482,0,0.0%,6721241,6721241,100.0%
+Total Assets,Total Assets,Non Current Assets,Non current assets,Investment in associates and JVs (net),1689988934,1689988934,0,0.0%,844994467,844994467,100.0%
+Total Assets,Total Assets,Non Current Assets,Non current assets,Investment in subsidiaries (net),12373341846,12373341846,0,0.0%,5879307737,6494034109,110.5%
+Total Assets,Total Assets,Non Current Assets,Non current assets,Investments - Others (net),5385996,5385996,0,0.0%,2692998,2692998,100.0%
+Total Assets,Total Assets,Non Current Assets,Non current assets,Long term Inter company receivable,1654245,1654245,0,0.0%,827422,826823,99.9%
+Total Assets,Total Assets,Non Current Assets,Non current assets,Other receivables (NC),0,0,0,,,0,
+Total Assets,Total Assets,Non Current Assets,Non current assets,Prepaid expenses (NC) - Others,29114,29114,0,0.0%,,29114,
+Total Assets,Total Assets,Non Current Assets,Non current assets,Provision for impaired investments,-281357232,-281357232,0,0.0%,-140678616,-140678616,-100.0%
+Total Assets,Total Assets,Non Current Assets,Other income,Gain / loss from disposal of PPE,-12183,-12183,0,0.0%,-900,-11283,-1253.4%
+Total Assets,Total Assets,Non Current Assets,Other income,Interest income - Current accounts,-3641,-3641,0,0.0%,-419,-3223,-770.1%
+Total Assets,Total Assets,Non Current Assets,Other income,Interest income - Related parties -,-153228913,-153228913,0,0.0%,-6255427,-146973487,-2349.5%
+Total Assets,Total Assets,Non Current Assets,Other Overheads - Provisions and write offs,Provision for impairment of dues from impaired investees,831556,831556,0,0.0%,35431,796125,2247.0%
+Total Assets,Total Assets,Non Current Assets,Other Overheads - Provisions and write offs,Provision for impairment of investments,349,349,0,0.0%,,349,
+Total Assets,Total Assets,Non Current Assets,Other Overheads - Staff,Allocation to BD projects,-75116764,-81806856,6690092,8.2%,-3330880,-71785883,-2155.2%
+Total Assets,Total Assets,Non Current Assets,Other Overheads - Staff,Allocation to BU’s,-4965023,-5497375,532351,9.7%,-355332,-4609692,-1297.3%
+Total Equity & Liabilities,Equity,Equity,Accumulated earnings and other reserves,Capital reserves,16265709,16265709,0,0.0%,8132855,8132855,100.0%
+Total Equity & Liabilities,Equity,Equity,Current assets,AR Clearing account,0,0,0,,2183,-2183,-100.0%
+Total Equity & Liabilities,Equity,Equity,Current assets,Current accounts - Incoming clearing - AED,0,0,0,,0,0,
+Total Equity & Liabilities,Equity,Equity,Current assets,Current accounts - Incoming clearing - BHD,0,0,0,,5386,-5386,-100.0%
+Total Equity & Liabilities,Equity,Equity,Current assets,Current accounts - Incoming clearing - Other currencies,0,0,0,0.0%,0,0,
+Total Equity & Liabilities,Equity,Equity,Current assets,Current accounts - Incoming clearing - SAR,2530670,2530670,0,0.0%,0,2530670,
+Total Equity & Liabilities,Equity,Equity,Current assets,Current accounts - Incoming clearing - USD,3138976,3138976,0,0.0%,1828064,1310912,71.7%
+Total Equity & Liabilities,Equity,Equity,Current assets,Current accounts - Outgoing clearing - AED,0,0,0,,-6409,6409,100.0%
+Total Equity & Liabilities,Equity,Equity,Current assets,Current accounts - Outgoing clearing - BHD,0,0,0,,,0,
+Total Equity & Liabilities,Equity,Equity,Current assets,Current accounts - Outgoing clearing - Other currencies,0,0,0,,0,0,
+Total Equity & Liabilities,Equity,Equity,Current assets,Current accounts - Outgoing clearing - SAR,8982080,8982080,0,0.0%,-415838,9397918,2260.0%
+Total Equity & Liabilities,Equity,Equity,Current assets,Current accounts - Outgoing clearing - USD,0,0,0,0.0%,-4059,4058,100.0%
+Total Equity & Liabilities,Equity,Equity,Current assets,Intercompany clearing account - Receivables,-5143795,-5143795,0,0.0%,130976925,-136120720,-103.9%
+Total Equity & Liabilities,Equity,Equity,Current assets,JPM Bank Account - Incoming clearing,0,0,0,,0,0,
+Total Equity & Liabilities,Equity,Equity,Current assets,Ongoing clearing - Treasury Company Bank Account,0,0,0,,0,0,
+Total Equity & Liabilities,Equity,Equity,Current assets,Outgoing clearing - Treasury Company Bank Account,-83054,-83054,0,0.0%,-8503187,8420134,99.0%
+Total Equity & Liabilities,Equity,Equity,Current assets,Prepayment clearing Account.,-3155,-3155,0,0.0%,-26793,23637,88.2%
+Total Equity & Liabilities,Equity,Equity,Current liabilities,AP Clearing account,-105180,-105180,0,0.0%,-10912,-94268,-863.9%
+Total Equity & Liabilities,Equity,Equity,Current liabilities,Expense clearing account,0,0,0,0.0%,151082,-151081,-100.0%
+Total Equity & Liabilities,Equity,Equity,Current liabilities,Intercompany clearing account - Payables,-171957803,-171957803,0,0.0%,-107824838,-64132965,-59.5%
+Total Equity & Liabilities,Equity,Equity,Current liabilities,Payroll clearing account,1121641,1121641,0,0.0%,-3200879,4322520,135.0%
+Total Equity & Liabilities,Equity,Equity,Hedge reserves,Other reserve - Retirement benefit obligations – OCI,6347694,6347694,0,0.0%,744373,5603321,752.8%
+Total Equity & Liabilities,Equity,Equity,Non current assets,CIP Clearing - Computer Hardware,0,0,0,,99940,-99940,-100.0%
+Total Equity & Liabilities,Equity,Equity,Non current assets,CIP Clearing - Office Equipment,0,0,0,,3901,-3901,-100.0%
+Total Equity & Liabilities,Equity,Equity,Non current assets,Cost clearing - Computer Hardware,0,0,0,,0,0,
+Total Equity & Liabilities,Equity,Equity,Non current assets,Cost clearing - Computer Software,0,0,0,,,0,
+Total Equity & Liabilities,Equity,Equity,Non current assets,Cost clearing - Furniture & Fixtures,0,0,0,,0,0,
+Total Equity & Liabilities,Equity,Equity,Non current assets,Cost clearing - Office Equipment,0,0,0,,,0,
+Total Equity & Liabilities,Equity,Equity,Non current assets,Investments Clearing Account,82018069,82018069,0,0.0%,1975413,80042656,4051.9%
+Total Equity & Liabilities,Equity,Equity,Shareholders funds,Share capital - Ordinary shares,-6054531772,-6054531772,0,0.0%,-3022046321,-3032485451,-100.3%
+Total Equity & Liabilities,Equity,Equity,Shareholders funds,Share premium,-3433840833,-3433840833,0,0.0%,-1676561350,-1757279483,-104.8%
+Total Equity & Liabilities,Equity,Equity,System default accounts,AP_Initial upload clearing account,92,92,0,0.0%,46,46,100.0%
+Total Equity & Liabilities,Equity,Equity,System default accounts,AR_Initial upload clearing account,0,0,0,,0,0,-100.0%
+Total Equity & Liabilities,Equity,Equity,System default accounts,Bank account transfer clearing account,0,0,0,,0,0,
+Total Equity & Liabilities,Equity,Equity,System default accounts,Clearing - Proceeds of sales,0,0,0,,0,0,
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrued expenses - Board remuneration,0,0,0,,-199481,199481,100.0%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrued expenses - Insurance,-270755,-270755,0,0.0%,-125021,-145734,-116.6%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrued expenses - Interest,5738385,5738385,0,0.0%,-13517681,19256066,142.5%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrued expenses - Others,-23383671,-23383671,0,0.0%,-32499667,9115997,28.0%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrued expenses - Service suppliers,-4931804,-4931804,0,0.0%,-3740748,-1191057,-31.8%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrued expenses - Staff related,-74001039,-74001039,0,0.0%,-50516684,-23484356,-46.5%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrued expenses - Utilities,-307070,-307070,0,0.0%,,-307070,
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,AP Control account - Employees,-299,-299,0,0.0%,-141983,141683,99.8%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,AP Control account - Related parties -,-1533787054,-1533787054,0,0.0%,-286061415,-1247725639,-436.2%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,AP Control account - Related parties - External,-6262630,-6262630,0,0.0%,-3131315,-3131315,-100.0%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,AP Control account - Trade,-20166048,-20166048,0,0.0%,-4294485,-15871563,-369.6%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,FV of derivative financial instruments (Liabilities - C),-196249213,-196249213,0,0.0%,0,-196249213,-252255719569.2%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,VAT OUTPUT,-52845119,-52845119,0,0.0%,-10038362,-42806757,-426.4%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Zakat Payable,-52033743,-52033743,0,0.0%,-29701612,-22332130,-75.2%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,AP Control account (NC) - Related parties -,-8231719250,-8231719250,0,0.0%,-3650061652,-4581657598,-125.5%
+Total Equity & Liabilities,Total Liabilities,Long Term Liabilities,Current liabilities,Long term loans (Capital outstanding) (C),-12330250,-12330250,0,0.0%,-7369134,-4961116,-67.3%
+Total Equity & Liabilities,Total Liabilities,Long Term Liabilities,Non current liabilities,End of service benefits,-55399729,-55399729,0,0.0%,-28526224,-26873505,-94.2%
+Total Equity & Liabilities,Total Liabilities,Long Term Liabilities,Non current liabilities,FV of derivative financial instruments (Liabilities - NC),-2242752,-2242752,0,0.0%,-18000637,15757885,87.5%
+Total Equity & Liabilities,Total Liabilities,Long Term Liabilities,Non current liabilities,Lease liabilities (NC),-8760639,-8760639,0,0.0%,-4117190,-4643450,-112.8%
+Total Equity & Liabilities,Total Liabilities,Long Term Liabilities,Non current liabilities,Long term incentive Liability,-36299559,-36299559,0,0.0%,-22992188,-13307371,-57.9%
+Total Equity & Liabilities,Total Liabilities,Long Term Liabilities,Non current liabilities,Long term loans (Capital outstanding) (NC),-4026783277,-4026783277,0,0.0%,-1912021919,-2114761357,-110.6%
+Total Equity & Liabilities,Total Liabilities,Long Term Liabilities,Non current liabilities,Other payables (NC),-482257979,-482257979,0,0.0%,-231734303,-250523676,-108.1%
+Total Equity & Liabilities,Total Liabilities,Long Term Liabilities,Other Overheads - Finance costs,Interest / commission  expenses - Long term loans,283299939,283299939,0,0.0%,11750385,271549554,2311.0%
+Total Equity & Liabilities,Total Liabilities,Long Term Liabilities,Other Overheads - Staff,End of Service Benefit,14720450,14720450,0,0.0%,664217,14056233,2116.2%
