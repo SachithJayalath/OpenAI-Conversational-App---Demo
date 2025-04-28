@@ -25,7 +25,7 @@ load_dotenv(override=True)
 thinking_model = ChatOpenAI(temperature=0, model="gpt-4o-mini-2024-07-18")
 conversational_model = ChatOpenAI(temperature=0, model="gpt-4o-mini-2024-07-18")
 
-template_thinking_model = """
+template_thinking_model_OLD = """
 You are a middle AI agent who works in the middle of a powerplant company and their conversatonal AI who is the end face who will report this insights to the user in natural language.
 I will share the ground level report of the account balances for the month january of the year 2025 of the powerplant company and the user's message. You will follow ALL of the rules below:
 
@@ -44,6 +44,49 @@ this is the user's message ; {message}
 this the ground level report of the account balance of the company for january 2025 in csv format.
 Regarding this report use the following keywords when referring, PM - previous month which is December 2024, PY - previous year which is January 2024
 ; {gl_report_jan_2025}
+
+You do not have to be emotional or natural language in your response, you should be very precise and technical in your response as you are communicating with another AI.
+"""
+
+template_thinking_model = """
+You are a middle AI agent who works in the middle of a powerplant company and their conversatonal AI who is the end face who will report this insights to the user in natural language.
+I will share the ground level report of the account balances for the month january of the year 2025 of the powerplant company and the user's message. You will follow ALL of the rules below:
+
+1/ You should check and return all the data in text if it is necessary to answer the user's message.
+
+2/ You should analyse or do any necessary calculations and return them as well but very precisely menetioning what this exact value means.
+
+3/ Do not return guides to do calculations or get certain information as the conversation agent (AI) doesn't have any access to the raw data of reporting. Always do all the necessary calculations and return the results.
+
+4/ If the given user message is completely irrelevant to the given report or the data, then you should only return "IRRELEVANT" and nothing else. Not even a word of saying that it is irrelevant. Just output "IRRELEVANT" nothing else.
+
+5/ Try to give as much as context as possible as the conversational AI agent's response will completely depend on the response you give. When providing numbers or calculation results you can provide the raw data you got from the report as reference so it would be easier for the conversational AI agent to explain it to the user.
+
+this is the user's message ; {message}
+
+this the ground level report of the account balance of the company for january 2025 in csv format and it has been broken down into 5 parts of categories as following.
+Regarding this report use the following keywords when referring, PM - previous month which is December 2024, PY - previous year which is January 2024.
+The symbol ">" means that the right side category is within the set of the left side.
+
+I.) Total Assets > Current Assets ;
+
+{gl_25jan_current_assets}
+
+II.) Total Assets > Non Current Assets ;
+
+{gl_25jan_non_current_assets}
+
+III.) Total Equity and Liabilities > Equity ;
+
+{gl_25jan_equity}
+
+IV.) Total Equity and Liabilities > Current Liabilities ;
+
+{gl_25jan_current_liabilities}
+
+V.) Total Equity and Liabilities > Non Current Liabilities ;
+
+{gl_25jan_non_current_liabilities}
 
 You do not have to be emotional or natural language in your response, you should be very precise and technical in your response as you are communicating with another AI.
 """
@@ -73,8 +116,14 @@ Below is the relevant report data the program received after going through the g
 Here is the brief of the powerplant company and the domain knowledge of the company. Do not give text straight from this just only understand this an explain as an conversational assistant ; {acwa_company_brief}
 """
 
+# prompt_th = PromptTemplate(
+#     input_variables=["message", "gl_report_jan_2025"],
+#     template=template_thinking_model
+# )
+
+# comment below and uncomment the above for recovery to the full report reading
 prompt_th = PromptTemplate(
-    input_variables=["message", "gl_report_jan_2025"],
+    input_variables=["message", "gl_25jan_current_assets", "gl_25jan_non_current_assets", "gl_25jan_equity", "gl_25jan_current_liabilities", "gl_25jan_non_current_liabilities"],
     template=template_thinking_model
 )
 
@@ -87,10 +136,22 @@ chain_th = LLMChain(llm=thinking_model, prompt=prompt_th)
 chain_co = LLMChain(llm=conversational_model, prompt=prompt_co)
 
 # 5. Retrieval augmented generation
+# def generate_response_for_thinking(message):
+#     with open("gl-report-25-january.txt", "r") as file:
+
+# comment below and uncomment the above for recovery to the full report reading
 def generate_response_for_thinking(message):
-    with open("gl-report-25-january.txt", "r") as file:
-        gl_report_jan_2025 = file.read()
-    response = chain_th.run(message=message, gl_report_jan_2025=gl_report_jan_2025)
+    with open("gl-report-25-jan-breakdown/totalassets-currentassets.txt", "r") as file:
+        gl_25jan_current_assets = file.read()
+    with open("gl-report-25-jan-breakdown/totalassets-noncurrentassets.txt", "r") as file:
+        gl_25jan_non_current_assets = file.read()
+    with open("gl-report-25-jan-breakdown/totaleuqity.txt", "r") as file:
+        gl_25jan_equity = file.read()
+    with open("gl-report-25-jan-breakdown/totalliabilities-currentliabilities.txt", "r") as file:
+        gl_25jan_current_liabilities = file.read()
+    with open("gl-report-25-jan-breakdown/totalliabilities-noncurrentliabilities.txt", "r") as file:
+        gl_25jan_non_current_liabilities = file.read()
+    response = chain_th.run(message=message, gl_25jan_current_assets=gl_25jan_current_assets, gl_25jan_non_current_assets=gl_25jan_non_current_assets, gl_25jan_equity=gl_25jan_equity, gl_25jan_current_liabilities=gl_25jan_current_liabilities, gl_25jan_non_current_liabilities=gl_25jan_non_current_liabilities)
     return response
 
 def generate_response_for_convo(message, relevant_data):
