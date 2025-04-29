@@ -22,10 +22,10 @@ for name in logging.Logger.manager.loggerDict.keys():
 load_dotenv(override=True)
 
 # 4. Setup LLMChain & prompts
-thinking_model = ChatOpenAI(temperature=0, model="gpt-4o-mini-2024-07-18")
+thinking_model = ChatOpenAI(temperature=1, model="o4-mini-2025-04-16")
 conversational_model = ChatOpenAI(temperature=0, model="gpt-4o-mini-2024-07-18")
 
-template_thinking_model_OLD = """
+template_thinking_model = """
 You are a middle AI agent who works in the middle of a powerplant company and their conversatonal AI who is the end face who will report this insights to the user in natural language.
 I will share the ground level report of the account balances for the month january of the year 2025 of the powerplant company and the user's message. You will follow ALL of the rules below:
 
@@ -48,7 +48,7 @@ Regarding this report use the following keywords when referring, PM - previous m
 You do not have to be emotional or natural language in your response, you should be very precise and technical in your response as you are communicating with another AI.
 """
 
-template_thinking_model = """
+template_thinking_model_NEW = """
 You are a middle AI agent who works in the middle of a powerplant company and their conversatonal AI who is the end face who will report this insights to the user in natural language.
 I will share the ground level report of the account balances for the month january of the year 2025 of the powerplant company and the user's message. You will follow ALL of the rules below:
 
@@ -116,16 +116,16 @@ Below is the relevant report data the program received after going through the g
 Here is the brief of the powerplant company and the domain knowledge of the company. Do not give text straight from this just only understand this an explain as an conversational assistant ; {acwa_company_brief}
 """
 
-# prompt_th = PromptTemplate(
-#     input_variables=["message", "gl_report_jan_2025"],
-#     template=template_thinking_model
-# )
-
-# comment below and uncomment the above for recovery to the full report reading
 prompt_th = PromptTemplate(
-    input_variables=["message", "gl_25jan_current_assets", "gl_25jan_non_current_assets", "gl_25jan_equity", "gl_25jan_current_liabilities", "gl_25jan_non_current_liabilities"],
+    input_variables=["message", "gl_report_jan_2025"],
     template=template_thinking_model
 )
+
+# comment below and uncomment the above for recovery to the full report reading
+# prompt_th = PromptTemplate(
+#     input_variables=["message", "gl_25jan_current_assets", "gl_25jan_non_current_assets", "gl_25jan_equity", "gl_25jan_current_liabilities", "gl_25jan_non_current_liabilities"],
+#     template=template_thinking_model
+# )
 
 prompt_co = PromptTemplate(
     input_variables=["message", "relevant_data", "acwa_company_brief"],
@@ -136,23 +136,26 @@ chain_th = LLMChain(llm=thinking_model, prompt=prompt_th)
 chain_co = LLMChain(llm=conversational_model, prompt=prompt_co)
 
 # 5. Retrieval augmented generation
-# def generate_response_for_thinking(message):
-#     with open("gl-report-25-january.txt", "r") as file:
+def generate_response_for_thinking(message):
+    with open("gl-report-25-january.txt", "r") as file:
+        gl_report_jan_2025 = file.read()
+    response = chain_th.run(message=message, gl_report_jan_2025=gl_report_jan_2025)
+    return response
 
 # comment below and uncomment the above for recovery to the full report reading
-def generate_response_for_thinking(message):
-    with open("gl-report-25-jan-breakdown/totalassets-currentassets.txt", "r") as file:
-        gl_25jan_current_assets = file.read()
-    with open("gl-report-25-jan-breakdown/totalassets-noncurrentassets.txt", "r") as file:
-        gl_25jan_non_current_assets = file.read()
-    with open("gl-report-25-jan-breakdown/totaleuqity.txt", "r") as file:
-        gl_25jan_equity = file.read()
-    with open("gl-report-25-jan-breakdown/totalliabilities-currentliabilities.txt", "r") as file:
-        gl_25jan_current_liabilities = file.read()
-    with open("gl-report-25-jan-breakdown/totalliabilities-noncurrentliabilities.txt", "r") as file:
-        gl_25jan_non_current_liabilities = file.read()
-    response = chain_th.run(message=message, gl_25jan_current_assets=gl_25jan_current_assets, gl_25jan_non_current_assets=gl_25jan_non_current_assets, gl_25jan_equity=gl_25jan_equity, gl_25jan_current_liabilities=gl_25jan_current_liabilities, gl_25jan_non_current_liabilities=gl_25jan_non_current_liabilities)
-    return response
+# def generate_response_for_thinking(message):
+#     with open("gl-report-25-jan-breakdown/totalassets-currentassets.txt", "r") as file:
+#         gl_25jan_current_assets = file.read()
+#     with open("gl-report-25-jan-breakdown/totalassets-noncurrentassets.txt", "r") as file:
+#         gl_25jan_non_current_assets = file.read()
+#     with open("gl-report-25-jan-breakdown/totaleuqity.txt", "r") as file:
+#         gl_25jan_equity = file.read()
+#     with open("gl-report-25-jan-breakdown/totalliabilities-currentliabilities.txt", "r") as file:
+#         gl_25jan_current_liabilities = file.read()
+#     with open("gl-report-25-jan-breakdown/totalliabilities-noncurrentliabilities.txt", "r") as file:
+#         gl_25jan_non_current_liabilities = file.read()
+#     response = chain_th.run(message=message, gl_25jan_current_assets=gl_25jan_current_assets, gl_25jan_non_current_assets=gl_25jan_non_current_assets, gl_25jan_equity=gl_25jan_equity, gl_25jan_current_liabilities=gl_25jan_current_liabilities, gl_25jan_non_current_liabilities=gl_25jan_non_current_liabilities)
+#     return response
 
 def generate_response_for_convo(message, relevant_data):
     with open("acwa_company_brief.txt", "r") as file:
