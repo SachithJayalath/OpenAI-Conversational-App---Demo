@@ -1,817 +1,208 @@
 Balance Sheet Line Item,MAIN_CATEGORY_2,MAIN_CATEGORY_3,Account Grouping,Analytical Code Name,Actual,PM,Variance,Variance%,PY,Variance,Variance%
-Total Assets,Total Assets,Current Assets,Current assets,,0.00,0.00,0.00,,112122.62,-112122.62,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets, AIR PRODUCTS Middle East Industrial Gases LLC,0.00,0.00,0.00,,-84015.11,84015.11,100.0%
-Total Assets,Total Assets,Current Assets,Current assets," Jagdishkumar Shah, Mr.",0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets, Marco Arcelli,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets, Power Community,2244.17,2244.17,0.00,0.0%,,2244.17,
-Total Assets,Total Assets,Current Assets,Current assets,10%_REVERSE_CHARGE,908.68,908.68,0.00,0.0%,-0.07,908.76,1214828.0%
-Total Assets,Total Assets,Current Assets,Current assets,15% VAT IMPORT,29125364.11,29125364.11,0.00,0.0%,464234.98,28661129.13,6173.8%
-Total Assets,Total Assets,Current Assets,Current assets,15% VAT LOCAL INPUT,4697573.48,4697573.48,0.00,0.0%,1471749.34,3225824.14,219.2%
-Total Assets,Total Assets,Current Assets,Current assets,15%_REVERSE_CHARGE,9604583.16,9604583.16,0.00,0.0%,7044928.90,2559654.26,36.3%
-Total Assets,Total Assets,Current Assets,Current assets,15%_VAT_GCC_INPUT_NON_REG,207348.19,207348.19,0.00,0.0%,6732.50,200615.69,2979.8%
-Total Assets,Total Assets,Current Assets,Current assets,15%_VAT_LOCAL_INC_INPUT,-797304.27,-797304.27,0.00,0.0%,-398652.14,-398652.14,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,5% VAT IMPORT,680953.71,680953.71,0.00,0.0%,66456.77,614496.94,924.7%
-Total Assets,Total Assets,Current Assets,Current assets,5% VAT Local Input,875803.93,875803.93,0.00,0.0%,600383.14,275420.80,45.9%
-Total Assets,Total Assets,Current Assets,Current assets,5%_REVERSE_CHARGE,960806.52,960806.52,0.00,0.0%,66507.93,894298.60,1344.6%
-Total Assets,Total Assets,Current Assets,Current assets,5%_VAT_GCC_INPUT_NON_REG,-87770.24,-87770.24,0.00,0.0%,-43885.12,-43885.12,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,5%_VAT_LOCAL_INC_INPUT,-6344.93,-6344.93,0.00,0.0%,-3172.47,-3172.47,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Abarna Ramesh .,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Abbas Noureldiem Abdullah,77.26,77.26,0.00,0.0%,0.00,77.26,
-Total Assets,Total Assets,Current Assets,Current assets,Abdelal Abueljedyan,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Abdulaziz Al Baadi,192.27,192.27,0.00,0.0%,889.54,-697.26,-78.4%
-Total Assets,Total Assets,Current Assets,Current assets,Abdulaziz Al Mubarak,0.00,0.00,0.00,,0.12,-0.12,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Abdulaziz Al Mugarri,0.00,0.00,0.00,,403.87,-403.87,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,"Abdulaziz Al Mughram Al Ghamdi, Mr.",0.00,0.00,0.00,,0.01,-0.01,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Abdulaziz AlAteeq,0.00,0.00,0.00,,463.95,-463.95,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Abdulaziz Mohammad Saeed Mahdi,0.00,0.00,0.00,,9729.66,-9729.66,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Abdullah Al Nader,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Abdullah AlShebeili,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Abdullah Saeed Al Ghamdi,1833.32,1833.32,0.00,0.0%,8188.06,-6354.73,-77.6%
-Total Assets,Total Assets,Current Assets,Current assets,Abdullah Saeed Al Jubran,0.00,0.00,0.00,,1065.22,-1065.22,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Abdulrahman  Alnounou,-426.39,-426.39,0.00,0.0%,-213.19,-213.19,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Abdulrahman Ahmed Algannas,284.87,284.87,0.00,0.0%,,284.87,
-Total Assets,Total Assets,Current Assets,Current assets,Abdulwahab AlSalman,0.00,0.00,0.00,,3605.78,-3605.78,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Abhijay Awasthi,103.23,103.23,0.00,0.0%,0.00,103.23,
-Total Assets,Total Assets,Current Assets,Current assets,Abid Hussain Malik,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Accrual - Service Charges Income,5520659.56,5520659.56,0.00,0.0%,8205235.74,-2684576.18,-32.7%
-Total Assets,Total Assets,Current Assets,Current assets,Adel Yehia Khalifa Mohamed,1143.03,1143.03,0.00,0.0%,244.52,898.51,367.5%
-Total Assets,Total Assets,Current Assets,Current assets,Afnan Abdulla,18720.31,18720.31,0.00,0.0%,10619.58,8100.73,76.3%
-Total Assets,Total Assets,Current Assets,Current assets,Aftab Ahmed,0.00,0.00,0.00,,8222.73,-8222.73,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Ahmad Ettwadi,4806.49,4806.49,0.00,0.0%,25.13,4781.36,19025.2%
-Total Assets,Total Assets,Current Assets,Current assets,Ahmad Waraich,-3324.81,-3324.81,0.00,0.0%,-1657.41,-1667.40,-100.6%
-Total Assets,Total Assets,Current Assets,Current assets,Ahmed  Al Magroor,-426.39,-426.39,0.00,0.0%,-213.19,-213.19,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Ahmed  Alhumidan,-1891.08,-1891.08,0.00,0.0%,-472.77,-1418.31,-300.0%
-Total Assets,Total Assets,Current Assets,Current assets,Ahmed AlMaghrabi,-4237.82,-4237.82,0.00,0.0%,-2118.91,-2118.91,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Ahmed Bilal,3149.61,3149.61,0.00,0.0%,1574.81,1574.81,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Ahmed Mahmoud,0.00,0.00,0.00,,9.58,-9.58,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Ahmet Emre Polat,64.23,64.23,0.00,0.0%,0.00,64.23,
-Total Assets,Total Assets,Current Assets,Current assets,Ahmet Kuzucuoğlu,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,AIR PRODUCTS Middle East Industrial Gases LLC,6040037.98,6040037.98,0.00,0.0%,8926838.23,-2886800.25,-32.3%
-Total Assets,Total Assets,Current Assets,Current assets,Aitzaz Saeed,2621.78,2621.78,0.00,0.0%,,2621.78,
-Total Assets,Total Assets,Current Assets,Current assets,Ajas Kattatharakka Kunhimon,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Akash Nair,0.00,0.00,0.00,,7.27,-7.27,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,AL TAWAKOL ELECTRICAL COMPANY-GILA (S.A.F),555311.66,555311.66,0.00,0.0%,254110.05,301201.61,118.5%
-Total Assets,Total Assets,Current Assets,Current assets,Alberto Garcia,0.00,0.00,0.00,,2227.78,-2227.78,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Alejandro Garcia Juanto - Spain Office,0.00,0.00,0.00,,68.82,-68.82,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Ali Al Mukhtar,0.00,0.00,0.00,,68.82,-68.82,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Ali Aldawood,0.00,0.00,0.00,,68.82,-68.82,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Ali Alool,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Almaha Mohammed Al Rekaiei,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Altaf  Mohammed,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Altaf Shaikh,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Alvaro Perez,0.00,0.00,0.00,,125.31,-125.31,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Amal Alamri,12888.72,12888.72,0.00,0.0%,,12888.72,
-Total Assets,Total Assets,Current Assets,Current assets,Amaljeev Thara Rajeev,-909.63,-909.63,0.00,0.0%,-454.82,-454.82,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Amit Vivek Upadhyay,459.01,459.01,0.00,0.0%,,459.01,
-Total Assets,Total Assets,Current Assets,Current assets,Anas Ekhlaq Ahmed,0.00,0.00,0.00,,68.82,-68.82,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Andrew Bailey,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Angelika Bermundo,0.00,0.00,0.00,,-0.20,0.20,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Anil Vijayachandran,0.00,0.00,0.00,,-131.57,131.57,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Anirban  Kundu,226.81,226.81,0.00,0.0%,,226.81,
-Total Assets,Total Assets,Current Assets,Current assets,Antonio Jesus Garcia,0.00,0.00,0.00,,-4973.13,4973.13,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Anuneha Uniyal,0.00,0.00,0.00,,-15.44,15.44,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,APIR-SNB-SAR-62500000212106-Payroll Account,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,APIR-SNB-SAR-62500000212204-Current Account,338056.54,338056.54,0.00,0.0%,297081.99,40974.55,13.8%
-Total Assets,Total Assets,Current Assets,Current assets,APIR-SNB-USD-62500000212008-Operational Account,22338.24,22338.24,0.00,0.0%,1767.31,20570.93,1164.0%
-Total Assets,Total Assets,Current Assets,Current assets,Arif Mallik,108.32,108.32,0.00,0.0%,0.00,108.32,
-Total Assets,Total Assets,Current Assets,Current assets,Arunkumar Ramamurthy,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Arvind Prakash Mishra,0.00,0.00,0.00,,94.85,-94.85,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Arwa  Alkatheeri,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Aseem Aziz,0.00,0.00,0.00,,350.75,-350.75,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Ashley William Rowlands,0.00,0.00,0.00,,-1239.13,1239.13,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Ashok Kumar David,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Ashwani Kumar Raina,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Asia Sharif,47.18,47.18,0.00,0.0%,23.59,23.59,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Aswathy Sarasan,0.00,0.00,0.00,,50.87,-50.87,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Atanu Das,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Ayad Al Amri,-336.92,-336.92,0.00,0.0%,1523.64,-1860.57,-122.1%
-Total Assets,Total Assets,Current Assets,Current assets,Bader AlTamimi,1055.95,1055.95,0.00,0.0%,,1055.95,
-Total Assets,Total Assets,Current Assets,Current assets,Badis Derradji -M ORZAZAT,0.00,0.00,0.00,,68.82,-68.82,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Balwan Chauhan,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Bandar  AlSuhaibani,-426.39,-426.39,0.00,0.0%,-213.19,-213.19,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Bandar AlAmeer,0.00,0.00,0.00,,14.90,-14.90,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Bandar Birano,-669.96,-669.96,0.00,0.0%,-334.98,-334.98,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Bank -ANB -SAR - API Riyadh- 0108040454910013-Payment,106172.98,106172.98,0.00,0.0%,28223.21,77949.77,276.2%
-Total Assets,Total Assets,Current Assets,Current assets,Bankuro Narayana Rao,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Bart Jozef Boesmans,0.00,0.00,0.00,,25.99,-25.99,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Bhavana Mantri,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Bid Bond Comm.,11288509.99,11288509.99,0.00,0.0%,5643487.80,5645022.19,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Birjukumar Anilbhai Mistri,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,"Boarding, Lodging & Travel",37054225.33,37054225.33,0.00,0.0%,17021822.20,20032403.12,117.7%
-Total Assets,Total Assets,Current Assets,Current assets,Bodour Baeesa,-10228.44,-10228.44,0.00,0.0%,-5114.22,-5114.22,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Branch of Arctech Investment (HK) Limited,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Bushra Hamidaddin,-19617.55,-19617.55,0.00,0.0%,-9808.78,-9808.78,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Business Travel,26072.64,26072.64,0.00,0.0%,13036.32,13036.32,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Capitalization,-2276206.45,-2276206.45,0.00,0.0%,1486.94,-2277693.40,-153179.4%
-Total Assets,Total Assets,Current Assets,Current assets,Carbon credit,484619.18,484619.18,0.00,0.0%,221024.13,263595.05,119.3%
-Total Assets,Total Assets,Current Assets,Current assets,Carine Farhat,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Carlos Manuel Sanabria Gallego,160.38,160.38,0.00,0.0%,,160.38,
-Total Assets,Total Assets,Current Assets,Current assets,Carlton Tapp,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Chairman-Mohammed Abu Nayyan,-676153.09,-676153.09,0.00,0.0%,-5628.44,-670524.65,-11913.1%
-Total Assets,Total Assets,Current Assets,Current assets,Chaminda  Herath,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Chen Yu,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,"CHINA ENERGY ENGINEERING GROUP GUANGDONG POWER ENGINEERING (HONG KONG) Co., LTD",7389934.54,7389934.54,0.00,0.0%,,7389934.54,
-Total Assets,Total Assets,Current Assets,Current assets,CHINA Energy Engineering Group Guangdong Power Engineering Co. Ltd (Dubai Branch),17158898.92,17158898.92,0.00,0.0%,8579449.46,8579449.46,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,"China Energy Engineering Group Zhejing Thermal Power Construction Co., LTD",17044691.63,17044691.63,0.00,0.0%,14100288.67,2944402.97,20.9%
-Total Assets,Total Assets,Current Assets,Current assets,China Energy International Group Company Limited (Saudi Branch),60527707.97,60527707.97,0.00,0.0%,,60527707.97,
-Total Assets,Total Assets,Current Assets,Current assets,"CHINA Gezhouba Group International Engineering Co., Ltd.",2804692.46,2804692.46,0.00,0.0%,1402346.23,1402346.23,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Chint Solar (Hong Kong),1683123.88,1683123.88,0.00,0.0%,,1683123.88,
-Total Assets,Total Assets,Current Assets,Current assets,Christopher John Beem,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Colli Benito,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Credit Card and Travel ticket balance,985479.92,985479.92,0.00,0.0%,492739.96,492739.96,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current Ac – AP Treasury- INTRA -VAM - 60106,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Current AC - APGS- First Abu Dhabi Bank -AED-1031002012674018,125499.50,125499.50,0.00,0.0%,301230.47,-175730.98,-58.3%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC - APGS- First Abu Dhabi Bank -USD-1031002012674029,52980.87,52980.87,0.00,0.0%,12672.64,40308.23,318.1%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC - APGS-Gulf International Bank-AED-AE370920000040000000291,8344.97,8344.97,0.00,0.0%,4172.49,4172.49,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC - API Dubai- CBD -AED-AC 1003960430,0.00,0.00,0.00,,299.22,-299.22,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC - API_Riyadh - ABB -SAR -BH64ARAB02001002600511,3446.77,3446.77,0.00,0.0%,1904.17,1542.59,81.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC - APP - SNB - SAR - 71100005719007,224619.69,224619.69,0.00,0.0%,112309.85,112309.85,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC - APP - SNB - USD - 71100005719105,2475.31,2475.31,0.00,0.0%,1237.66,1237.66,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC - APSEWDC -AlInma -SAR - SA7905000068205128385000,6123.05,6123.05,0.00,0.0%,,6123.05,
-Total Assets,Total Assets,Current Assets,Current assets,Current AC - APSEWDC -AlInma -USD - SA6205000084005128385001,224.42,224.42,0.00,0.0%,,224.42,
-Total Assets,Total Assets,Current Assets,Current assets,Current AC - APSEWDC -ANB -SAR - SA9330400108095610500010,1493.20,1493.20,0.00,0.0%,,1493.20,
-Total Assets,Total Assets,Current Assets,Current assets,Current AC - APSEWDC -SABB -SAR - SA2345000000003736816001,244476.38,244476.38,0.00,0.0%,24522.82,219953.55,896.9%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC - APSEWDC -SABB -USD - SA2445000000003736816080,180238.74,180238.74,0.00,0.0%,292.46,179946.28,61528.6%
-Total Assets,Total Assets,Current Assets,Current assets,Current Ac - JPM - LU570670006550206152-AP Treasury,9065157.74,9065157.74,0.00,0.0%,2753541.86,6311615.87,229.2%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC - SAMAWEC - SNB - SAR - 71100007557509,139500.81,139500.81,0.00,0.0%,165644.32,-26143.51,-15.8%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC - SAMAWEC- SNB - USD - 71100007549705,127956.33,127956.33,0.00,0.0%,5142.93,122813.40,2388.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC - WPC -Riyad -SAR - SA1820000000286336054940,39120.69,39120.69,0.00,0.0%,403.64,38717.05,9591.9%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC -AIICO -SABB -SAR - SA7245000000003732732001 ,12375.72,12375.72,0.00,0.0%,10849.71,1526.01,14.1%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC -AIICO-SABB- USD - SA7345000000003732732080,50742.39,50742.39,0.00,0.0%,20800.95,29941.44,143.9%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC -AIICO-SCB- USD - SA2891000000101700232501,16512207.76,16512207.76,0.00,0.0%,,16512207.76,
-Total Assets,Total Assets,Current Assets,Current assets,Current AC -APCPPMA-SABB-SAR - SASABB003733508 001,4336.56,4336.56,0.00,0.0%,13766.14,-9429.58,-68.5%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC- API RIYADH-DIVERSITY VAM DUM-USD-AC 10207,4777106.45,4777106.45,0.00,0.0%,8416296.27,-3639189.83,-43.2%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC- Kahromaa-SABB -EUR-AC 003-688777-081 - Payment,186.90,186.90,0.00,0.0%,93.45,93.45,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-AP CE-FAB USD-AC 1031001960717018,5986403.88,5986403.88,0.00,0.0%,1088.36,5985315.51,549937.3%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-AP CE-FAB-SAR-4031001960717001,9253207.49,9253207.49,0.00,0.0%,,9253207.49,
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-AP GEO-FAB USD-AC 103100 2002569020,204.50,204.50,0.00,0.0%,149.55,54.95,36.7%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-AP Oasis 3-FAB USD-AC 1031202001801012,714.20,714.20,0.00,0.0%,172.70,541.50,313.5%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-AP Oasis 3-FAB-AED-AC 1011202001801021,144.21,144.21,0.00,0.0%,141.04,3.17,2.2%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-AP OASIS2-ADCB USD-AC 11747199920001,27490.33,27490.33,0.00,0.0%,19335.77,8154.56,42.2%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APBH- CITIBANK N.A - BHD - AC - 0700248917,4451.77,4451.77,0.00,0.0%,,4451.77,
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APBH-CITI-USD-AC 0700248003-Payment,208.11,208.11,0.00,0.0%,4444.01,-4235.90,-95.3%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APCPPMA_RIYADH-ANB-SAR-AC8130400108095308200017,23258.52,23258.52,0.00,0.0%,11629.26,11629.26,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APG-Arab Bank-SAR -AC 019000055104- Payment,227.50,227.50,0.00,0.0%,113.75,113.75,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APGEO-FGB-AED-AC 1031002002569019 - Payment,48.13,48.13,0.00,0.0%,32.47,15.66,48.2%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APG-Mashrek-USD-AC 19000047201-Payment,35.36,35.36,0.00,0.0%,2229.80,-2194.44,-98.4%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APG-NBD-USD-AC 1015694206402-Payment,2814.03,2814.03,0.00,0.0%,971.54,1842.49,189.6%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APGS - DIB -USD-AC 097521206051101,8754.67,8754.67,0.00,0.0%,472.72,8281.94,1752.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APGS -CBD -SAR-AC  2002360283,61467.85,61467.85,0.00,0.0%,45848.73,15619.11,34.1%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APGS-ADCB USD-AC 11744196820002,0.31,0.31,0.00,0.0%,0.16,0.16,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APGS-ADCB USD-AC 11744196820004,83967.18,83967.18,0.00,0.0%,41983.59,41983.59,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APGS-Bank Misr -AED-AC 80509100001327,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APGS-CBD-AED-AC 2002193999,20616.95,20616.95,0.00,0.0%,8.77,20608.18,235059.9%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APGS-CBD-SAR-AC 2001880810 -Payment,376.52,376.52,0.00,0.0%,188.51,188.00,99.7%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APGS-CBD-USD-AC  2001713193,-23250.95,-23250.95,0.00,0.0%,31533.00,-54783.94,-173.7%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APGS-CCB-USD-AC 956327947101050470003,71474.37,71474.37,0.00,0.0%,35752.89,35721.48,99.9%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APGS-CITI-AED-AC 0202128009-Payment,8033.38,8033.38,0.00,0.0%,92.59,7940.79,8576.5%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APGS-DIVERSITY VAM DUM -USD-AC 10207,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APGS-MASHREQ-AED-AC 19000017891-Payment,12869.58,12869.58,0.00,0.0%,7125.72,5743.85,80.6%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APGS-MASHREQ-USD-AC 19000018206-Payment,1786.27,1786.27,0.00,0.0%,1620.85,165.42,10.2%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APGS-MASHREQ-USD-AC 19120038168-Payment,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APGS-NBFU-USD-AC 23000155144,377.72,377.72,0.00,0.0%,216.51,161.21,74.5%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APGSR-FAB-AED -1001001887161001,854928.90,854928.90,0.00,0.0%,13926.90,841002.01,6038.7%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APGSR-FAB-AED-AC 1031001887161010,53529.59,53529.59,0.00,0.0%,61236.83,-7707.24,-12.6%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APGSR-FAB-USD-AC 1031001887161020,2125.45,2125.45,0.00,0.0%,138.03,1987.42,1439.9%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APGSR-Mashreq-AED-AC 019000070570,365209.66,365209.66,0.00,0.0%,263368.79,101840.87,38.7%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APGSR-Mashreq-USD-AC 019000070569,1032.44,1032.44,0.00,0.0%,,1032.44,
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API CHINA-BANK OF CHINA-RMB-AC 8029225263080-Payment,824251.25,824251.25,0.00,0.0%,1348436.45,-524185.20,-38.9%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API DUBAI-CBD-USD-AC 1002025391,6454.18,6454.18,0.00,0.0%,46677.73,-40223.56,-86.2%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API DUBAI-CBI-USD-AC 110011502306,328344.48,328344.48,0.00,0.0%,5257.30,323087.17,6145.5%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API DUBAI-ENDB-AED-AC 1011463042701-Payment,599.44,599.44,0.00,0.0%,299.72,299.72,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API DUBAI-FGB-AED-AC 1031201691263010-Payment,108014.10,108014.10,0.00,0.0%,100380.80,7633.30,7.6%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API DUBAI-FGB-USD-AC 1031201691263021-Payment,14790.65,14790.65,0.00,0.0%,199860.16,-185069.51,-92.6%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API DUBAI-ICBC CHINA-USD-AC 0128000100000029209-Payment,-0.05,-0.05,0.00,0.0%,2684718.54,-2684718.59,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API DUBAI-MASHREQ-AED-AC 0496819779-Payment,549083.93,549083.93,0.00,0.0%,414735.33,134348.60,32.4%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API DUBAI-MASHREQ-AED-AC 19000003982-Payroll,1282239.41,1282239.41,0.00,0.0%,303607.67,978631.74,322.3%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API DUBAI-MASHREQ-EUR-AC 0455214425-Payment,7914.55,7914.55,0.00,0.0%,3973.59,3940.96,99.2%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API DUBAI-MASHREQ-GBP-AC 0446784391-Payment,56375.89,56375.89,0.00,0.0%,28203.72,28172.17,99.9%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API DUBAI-MASHREQ-USD-AC 0448741918-Payment,22704.03,22704.03,0.00,0.0%,25586.82,-2882.79,-11.3%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API RIYADH- Bank AlInma-SAR-AC- 68204461863000,8093.29,8093.29,0.00,0.0%,89.77,8003.52,8915.9%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API RIYADH-ADCB-AED-AC 11409168820001-Payment,1184.46,1184.46,0.00,0.0%,305413.70,-304229.24,-99.6%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API RIYADH-ADCB-USD-AC 11409168820002-Payment,-1553.38,-1553.38,0.00,0.0%,40219.26,-41772.65,-103.9%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API RIYADH-AL Bilad -SAR-AC - 555115551050049,418.91,418.91,0.00,0.0%,,418.91,
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API RIYADH-AL BILAD-USD-AC - 555115551050038,1274.69,1274.69,0.00,0.0%,,1274.69,
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API RIYADH-AlInma-USD-AC 68204461863001-PaymentCurrent AC-API RIYADH-AlInma-USD-AC 68204461863001-Payment,224.42,224.42,0.00,0.0%,,224.42,
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API RIYADH-ALRajhi-SAR-AC 504608010089887-Payment,1301.87,1301.87,0.00,0.0%,4388.10,-3086.23,-70.3%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API RIYADH-ALRajhi-USD-AC 504752010827522-Payment,1067.75,1067.75,0.00,0.0%,533.87,533.87,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API Riyadh-Bank Aljazira USD-AC 084295012005002,2505.46,2505.46,0.00,0.0%,44281.48,-41776.01,-94.3%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API Riyadh-Bank Aljazira-SAR-AC 95012005001,464.90,464.90,0.00,0.0%,36231.10,-35766.21,-98.7%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API RIYADH-BSF-SAR-AC 787-168001-88-Payment,1044.80,1044.80,0.00,0.0%,24945.16,-23900.36,-95.8%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API Riyadh-CIB-EGP-AC 100022825792(15-8520001-5) Payment,8.76,8.76,0.00,0.0%,0.00,8.76,
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API Riyadh-COMMERCIAL INT-USD-AC 100022826152-Payment,104.86,104.86,0.00,0.0%,4373.30,-4268.44,-97.6%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API Riyadh-ENDB-USD-AC 0514762428301-Payment,-70948.67,-70948.67,0.00,0.0%,11493.53,-82442.20,-717.3%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API RIYADH-GIB-SAR-20000007561,299.22,299.22,0.00,0.0%,,299.22,
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API RIYADH-GIB-USD-AC BAH-358333-USD-2610-01-Payment,13269.69,13269.69,0.00,0.0%,834.21,12435.48,1490.7%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API RIYADH-ICBC-SAR-AC - 6007000100023549,59.84,59.84,0.00,0.0%,29.92,29.92,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API RIYADH-ICBC-USD-AC - 6007000100023413,224.42,224.42,0.00,0.0%,112.21,112.21,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API RIYADH-MUFG Bank -SAR-AC - 102113,17831.14,17831.14,0.00,0.0%,29.92,17801.22,59491.7%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API RIYADH-NATIXIS-USD-AC 27467298000-Payment,-219845.97,-219845.97,0.00,0.0%,311515.32,-531361.28,-170.6%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API RIYADH-NBK-SAR-SA5275000009002003906001,299.22,299.22,0.00,0.0%,,299.22,
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API RIYADH-RIYAD BANK -SAR-AC 2180808039940-Payment,116632.13,116632.13,0.00,0.0%,35803.45,80828.68,225.8%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API RIYADH-SABB-SAR-AC 011-290988-001-Payment,10802634.46,10802634.46,0.00,0.0%,1959952.97,8842681.49,451.2%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API RIYADH-SABB-SAR-AC 011-290988-002-Payroll,718303.97,718303.97,0.00,0.0%,88615.57,629688.40,710.6%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API RIYADH-SABB-SAR-AC 011-290988-003-Payment,219.28,219.28,0.00,0.0%,5927.74,-5708.46,-96.3%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API RIYADH-SABB-USD-AC 011-290988-080-Payment,2039185.03,2039185.03,0.00,0.0%,3973428.55,-1934243.53,-48.7%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API RIYADH-SAIB BANK -SAR-AC 0101-638838-001-Payment,1100.10,1100.10,0.00,0.0%,13705.24,-12605.13,-92.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API RIYADH-SAIB BANK -USD-AC 0101-638838-002-Payment,10606.82,10606.82,0.00,0.0%,6479.58,4127.24,63.7%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API RIYADH-Saudi British Bank-SAR-AC- 011290988005,8.53,8.53,0.00,0.0%,29.92,-21.39,-71.5%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API Riyadh-SCB-USD-AC 01-2156035-01-Payment,234951.13,234951.13,0.00,0.0%,49135.72,185815.41,378.2%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API Riyadh-SCB-USD-AC 01-2156035-02-Fees,213.20,213.20,0.00,0.0%,106.60,106.60,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API Riyadh-SCB-USD-AC 01-2156035-03-Deposit,247.09,247.09,0.00,0.0%,123.54,123.54,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API VIETNAM-VIB VIETNAM-USD-AC 002840060005212-Payment,67.31,67.31,0.00,0.0%,38.92,28.39,72.9%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API VIETNAM-VIB VIETNAM-VND-AC 002704063388888-Payment,1855.26,1855.26,0.00,0.0%,1722.56,132.70,7.7%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API_DUBAI - DIB - AED - AC 097520214071001,3633.37,3633.37,0.00,0.0%,508.23,3125.13,614.9%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API_Dubai - DIB -USD-AC 097521214071001,7569.23,7569.23,0.00,0.0%,3784.61,3784.61,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API_RIYADH-Arab National Bank-USD-6708040454910019,32477.01,32477.01,0.00,0.0%,1841.20,30635.81,1663.9%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APID-USD-CBI-100012294076,2584754.75,2584754.75,0.00,0.0%,,2584754.75,
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API-Riyadh - SC Bank -SAR-AC 1700006301,954.06,954.06,0.00,0.0%,860.00,94.05,10.9%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API-Riyadh ARAB BANK BAHRAIN-USD-BH91ARAB 02001002600510,2136412.09,2136412.09,0.00,0.0%,100779.26,2035632.82,2019.9%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-API-Riyadh-AlBilad-SAR-555115551050014,537.18,537.18,0.00,0.0%,118.98,418.20,351.5%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APKHL-CITI-USD-AC 0700255018-Payment,9026.57,9026.57,0.00,0.0%,4215.65,4810.92,114.1%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APMI 1-SCB-USD-AC 02-2347322-01-Collection account,1333709.29,1333709.29,0.00,0.0%,552041.04,781668.25,141.6%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APMI 1-SCB-USD-AC 02-2347322-02-Reserve account,27511.28,27511.28,0.00,0.0%,13755.64,13755.64,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APMI 1-SCB-USD-AC 02-2347324-01-Distribution Account,174.60,174.60,0.00,0.0%,121.25,53.35,44.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APMI 2-Mashreq-USD-AC 19000056351,13228.14,13228.14,0.00,0.0%,,13228.14,
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APMI 2-SCB-USD-AC 02-2347323-01-Collection account,352.94,352.94,0.00,0.0%,145.13,207.82,143.2%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APMI 2-SCB-USD-AC 02-2347323-02-Redemption account,4375.36,4375.36,0.00,0.0%,2365.66,2009.70,85.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APP-ALRAJHI-SAR-AC 362608010064659-Payment,26816.48,26816.48,0.00,0.0%,13408.24,13408.24,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APP-DIVERSITY VAM DUM -USD-AC 10207,-0.01,-0.01,0.00,0.0%,17313734.29,-17313734.30,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APPH-MASHREQ-USD-AC 19000013821-Payment,1390.87,1390.87,0.00,0.0%,368.82,1022.05,277.1%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APP-RIYAD BANK -SAR-AC 2972077029940-Payment,60266.92,60266.92,0.00,0.0%,30133.46,30133.46,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APP-SABB-SAR-AC 001-317544-001-Payment,2883325.80,2883325.80,0.00,0.0%,1025.54,2882300.25,281050.7%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APP-SABB-USD-AC 001-317544-080-Payment,573.12,573.12,0.00,0.0%,300.64,272.48,90.6%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APREHL-FAB-USD-AC 1031001922013017,1780166.80,1780166.80,0.00,0.0%,22447.11,1757719.69,7830.5%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APREH-MASHREQ-USD-AC AE650330000019000046257-Payment,115.57,115.57,0.00,0.0%,57.79,57.79,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APSEAWD-Al Rajhi Bank -SAR-AC 682608019999999,2222.98,2222.98,0.00,0.0%,738.79,1484.19,200.9%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APSE-SAR-Riyadh-2000203049940,299.22,299.22,0.00,0.0%,,299.22,
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APSE-USD-Riyadh-2000203040440,1138.07,1138.07,0.00,0.0%,,1138.07,
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APTPHC-Mashreq Corporate & Investment Banking Group-EUR-AC 019000052896- POWER Taweelah - EURO,189525.45,189525.45,0.00,0.0%,94762.73,94762.73,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-APTPHC-Mashreq Corporate & Investment Banking Group-USD-019000046238- POWER Taweelah - USD,158652.93,158652.93,0.00,0.0%,541219.60,-382566.67,-70.7%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-BARKA-Mashrek-USD-AC AE920330000019000046256-Payment,11878191.42,11878191.42,0.00,0.0%,286.61,11877904.81,4144233.8%
-Total Assets,Total Assets,Current Assets,Current assets,Current Account Arab Bank -APBH- SAR - 2002-688846-512,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Current Account CCB -APREH- CNY - AE686327947101050470004,25483.79,25483.79,0.00,0.0%,13691.14,11792.65,86.1%
-Total Assets,Total Assets,Current Assets,Current assets,Current Account CCB -APREH- USD - AE686327947101050470004,205325.34,205325.34,0.00,0.0%,102678.38,102646.96,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current Account JPM - APGS - USD - 6550205613,3254789.62,3254789.62,0.00,0.0%,2354356.20,900433.41,38.2%
-Total Assets,Total Assets,Current Assets,Current assets,Current Account SABB - RYD - SAR - 896034063001,30101.43,30101.43,0.00,0.0%,15050.72,15050.72,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current Account-API RIYADH-Fransi-USD- AC 787168 005 76,6328.14,6328.14,0.00,0.0%,1809.47,4518.67,249.7%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-DGC-Mashrek-AED-AC AE660330000019000046239-Payment,-0.01,-0.01,0.00,0.0%,0.00,0.00,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-DGC-Mashrek-USD-AC AE490330000019000046254-Payment,241707.13,241707.13,0.00,0.0%,128095.96,113611.18,88.7%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-FEWA-Mashrek-AED-AC AE120330000019000046241-Payment,25.67,25.67,0.00,0.0%,12.83,12.83,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-FEWA-Mashrek-USD-AC AE870330000019000046249-Payment,875130.27,875130.27,0.00,0.0%,220727.56,654402.71,296.5%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-IMTIAZ-ALRAJHI-SAR-AC 504608010010438-Payment,578965.66,578965.66,0.00,0.0%,271736.68,307228.98,113.1%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-KAHROMAA-SABB-SAR-AC SA6345000000003688777001 Payment,5785.94,5785.94,0.00,0.0%,16169.70,-10383.77,-64.2%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-KAHROMAA-SABB-USD-AC 003-688777-080 -Payment,0.11,0.11,0.00,0.0%,0.06,0.06,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-KHL-CITI-USD-AC 0700256014-Payment,212378.96,212378.96,0.00,0.0%,115578.40,96800.56,83.8%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-MSC-SABB-SAR-AC 011-366044-001-Payment,50423.67,50423.67,0.00,0.0%,5721.65,44702.02,781.3%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-OASIS 1 - SABB -SAR-AC 3736022001,29549.75,29549.75,0.00,0.0%,69052.33,-39502.58,-57.2%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-OASIS 2 - SABB -SAR-AC 003736972001,24719.65,24719.65,0.00,0.0%,10064.19,14655.45,145.6%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-OASIS 2-Al Rajhi Bank -SAR-AC 362608013800000,617.49,617.49,0.00,0.0%,308.74,308.74,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-OASIS1 CEW-AL Rajhi-SAR-AC 362608015700000,148284.74,148284.74,0.00,0.0%,74142.37,74142.37,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-PAC-SABB-SAR-AC SA6645000000003677077001-Payment,697.96,697.96,0.00,0.0%,1412.65,-714.69,-50.6%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-SMOMCO-BSF-SAR-AC 608127-001-41-Payment,2161458.62,2161458.62,0.00,0.0%,194357.50,1967101.12,1012.1%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-SNC-ANB-SAR-AC 0108-09508765-0010-Payment,283.51,283.51,0.00,0.0%,141.76,141.76,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-SNC-ANB-USD-AC 6708-09508765-0016-Payment,-0.03,-0.03,0.00,0.0%,-0.01,-0.01,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-SNC-ANB-USD-AC 6738-09508765-0017-Payment,-0.02,-0.02,0.00,0.0%,-0.01,-0.01,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Current AC-SNC-SABB-SAR-AC -SA6845000000003681111001 Payment,13371.48,13371.48,0.00,0.0%,15472.73,-2101.24,-13.6%
-Total Assets,Total Assets,Current Assets,Current assets,Cyber Insurance Prepaid,302018.34,302018.34,0.00,0.0%,154526.84,147491.50,95.4%
-Total Assets,Total Assets,Current Assets,Current assets,David Stephen Forster,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Deduction Control AC,124736.58,124736.58,0.00,0.0%,4077.32,120659.27,2959.3%
-Total Assets,Total Assets,Current Assets,Current assets,Deepak Kunwar Chand,377.02,377.02,0.00,0.0%,,377.02,
-Total Assets,Total Assets,Current Assets,Current assets,Design - Internal Personnel,981225.35,981225.35,0.00,0.0%,490612.68,490612.67,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Design - Professional Services,921772.36,921772.36,0.00,0.0%,676248.94,245523.43,36.3%
-Total Assets,Total Assets,Current Assets,Current assets,Development fee,61163083.11,61163083.11,0.00,0.0%,30581541.56,30581541.56,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Dibu Maimbilly Krishnan,321.96,321.96,0.00,0.0%,160.98,160.98,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Dimah Ali Alshenaifi,0.00,0.00,0.00,,670.80,-670.80,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Dimuth Lakmal Wickrama Arachchige,51.71,51.71,0.00,0.0%,,51.71,
-Total Assets,Total Assets,Current Assets,Current assets,Discount on Development Fee - Redstone,0.00,0.00,0.00,,-441049.22,441049.22,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Discount on Development Fee - Sirdarya,0.00,0.00,0.00,,-16503.45,16503.45,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Discount on SEPCO III advance,0.00,0.00,0.00,,-399678.93,399678.93,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,"Doosan Enerbility Co., Ltd.",328845002.99,328845002.99,0.00,0.0%,,328845002.99,
-Total Assets,Total Assets,Current Assets,Current assets,Driss Berraho,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Duruk Tuncer,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Edwin Nunez,-5563.06,-5563.06,0.00,0.0%,-2781.53,-2781.53,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Emad AlMutairi,-140.04,-140.04,0.00,0.0%,-70.02,-70.02,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Employee personal loans recoverable,1833881.30,1833881.30,0.00,0.0%,1246536.27,587345.03,47.1%
-Total Assets,Total Assets,Current Assets,Current assets,Enhancement - Internal Personnel,23937.76,23937.76,0.00,0.0%,11968.88,11968.88,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Enterprise license Agreements - MS,0.00,0.00,0.00,,674074.78,-674074.78,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Ernie Erwin Aguilar,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,ERP Cloud subscription license,0.00,0.00,0.00,,268193.63,-268193.63,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Ester Martin Gomez,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,External Parties (EPC / PM&A Fees),10542306.06,10542306.06,0.00,0.0%,1231589.90,9310716.15,756.0%
-Total Assets,Total Assets,Current Assets,Current assets,Fahad  Karali,0.00,0.00,0.00,,145.49,-145.49,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Fahad Al Sallum,0.00,0.00,0.00,,347.70,-347.70,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Fahad Al Shammari,0.00,0.00,0.00,,3144.44,-3144.44,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Fahad AlRewaithi,0.00,0.00,0.00,,137.64,-137.64,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Fahad Karali,179.53,179.53,0.00,0.0%,,179.53,
-Total Assets,Total Assets,Current Assets,Current assets,Faisal  Alotaibi,-5090.05,-5090.05,0.00,0.0%,-2557.13,-2532.92,-99.1%
-Total Assets,Total Assets,Current Assets,Current assets,Faisal Al Enazy,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Faisal Alaslani,0.00,0.00,0.00,,68.67,-68.67,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Faisal Alghariry,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Faisal Jadu,-2010.22,-2010.22,0.00,0.0%,-1005.11,-1005.11,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Faisal Turki Bin Humaid,10.23,10.23,0.00,0.0%,-7.00,17.23,246.2%
-Total Assets,Total Assets,Current Assets,Current assets,Faisal Turki N Bin Humaid,0.00,0.00,0.00,,68.82,-68.82,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Faizan Gul Narejo,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Faizan Javed,-59.84,-59.84,0.00,0.0%,,-59.84,
-Total Assets,Total Assets,Current Assets,Current assets,Fazle Alim Suhail,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Financial Consult.,79177777.12,79177777.12,0.00,0.0%,37992377.16,41185399.96,108.4%
-Total Assets,Total Assets,Current Assets,Current assets,Fire wall subscription,0.00,0.00,0.00,,43208.12,-43208.12,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Five Capital,6513030.64,6513030.64,0.00,0.0%,3256515.37,3256515.27,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Fixed Deposit - ABC Islamic Bank E.C,0.00,0.00,0.00,,28052064.63,-28052064.63,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Fixed Deposit - AlInma SAR,0.00,0.00,0.00,,95751047.28,-95751047.28,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Fixed Deposit - AlRajhi SAR,0.00,0.00,0.00,,349902752.84,-349902752.84,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Fixed Deposit - ANB - USD,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Fixed Deposit - ARAB BANK-Bahrain - SAR,0.00,0.00,0.00,,29922202.27,-29922202.27,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Fixed Deposit - BSF,0.00,0.00,0.00,,130311190.90,-130311190.90,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Fixed Deposit - CBI,164570197.49,164570197.49,0.00,0.0%,124284784.56,40285412.93,32.4%
-Total Assets,Total Assets,Current Assets,Current assets,Fixed Deposit - FAB - USD,294374625.97,294374625.97,0.00,0.0%,2094554.16,292280071.81,13954.3%
-Total Assets,Total Assets,Current Assets,Current assets,Fixed Deposit - FAB AED,0.00,0.00,0.00,,814763.85,-814763.85,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Fixed deposit - NBD USD,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Fixed Deposit – SAIB USD,0.00,0.00,0.00,,157091561.94,-157091561.94,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Fixed Deposit - Saudi National Bank - SAR,2692998.20,2692998.20,0.00,0.0%,0.00,2692998.20,
-Total Assets,Total Assets,Current Assets,Current assets,Fixed Deposit - Saudi National Bank - USD,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Fixed Deposit - SCB  Islamic Bank - Dubai,0.00,0.00,0.00,,6852184.32,-6852184.32,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Fixed Deposit - Standard Chartered Bank - SAR,0.00,0.00,0.00,,11968880.91,-11968880.91,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Fixed Deposit- AlJazira,0.00,0.00,0.00,,112208258.53,-112208258.53,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Fixed Deposit- SABB,0.00,0.00,0.00,,8976660.68,-8976660.68,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Fixed Deposit-API RIYADH-SABB-SAR-AC 011-290988-001-FD,0.00,0.00,0.00,,17654099.34,-17654099.34,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Fixed Deposit-Bank AlBilad-FD,0.00,0.00,0.00,,-0.38,0.38,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Fixed Deposit-Riyad Bank-FD,0.00,0.00,0.00,,293424596.06,-293424596.06,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Fixed Deposits – Al Bilad SAR,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Fixed Deposits – Al Jazira SAR,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Fixed Deposits – ANB SAR,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Fixed Deposits - Riyad Bank,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Fixed Deposits – SAIB SAR,0.00,0.00,0.00,,7480550.57,-7480550.57,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Fouzi Mubarak Al Saidi,0.00,0.00,0.00,,2448.81,-2448.81,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Froilan Tocino,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,FV of interest rate swaps [IRS] (Asset - C),0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Garuda Prakash,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Genenal -Other Staff,0.00,0.00,0.00,,130064.38,-130064.38,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,General -Other Staff,2393.72,2393.72,0.00,0.0%,1196.86,1196.86,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Georgios Zavitsanos,0.00,0.00,0.00,,12.87,-12.87,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Ghassan  Shawli,0.00,0.00,0.00,,4220.15,-4220.15,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Gopal Sanjiv Iyer,0.00,0.00,0.00,,68.82,-68.82,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Green Technology Company,24648660.23,24648660.23,0.00,0.0%,,24648660.23,
-Total Assets,Total Assets,Current Assets,Current assets,Gyozo David Ungar,0.00,0.00,0.00,,0.00,0.00,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Hafiz Noman Amin,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Hager Al Twegieri,-831.09,-831.09,0.00,0.0%,,-831.09,
-Total Assets,Total Assets,Current Assets,Current assets,Hager Al-Twegieri,206.46,206.46,0.00,0.0%,10895.15,-10688.69,-98.1%
-Total Assets,Total Assets,Current Assets,Current assets,Hammad Masood,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Haonan Guo,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Hardware,874826.66,874826.66,0.00,0.0%,65195.20,809631.46,1241.9%
-Total Assets,Total Assets,Current Assets,Current assets,Haroon Siyech,57.86,57.86,0.00,0.0%,,57.86,
-Total Assets,Total Assets,Current Assets,Current assets,Hashem  Qaw,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Hatem Alwabel,1026.33,1026.33,0.00,0.0%,513.17,513.17,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,HDEC MIDDLE EAST CO DMCC,3513729.80,3513729.80,0.00,0.0%,17673606.37,-14159876.57,-80.1%
-Total Assets,Total Assets,Current Assets,Current assets,Hermanus Karel Potgieter,0.00,0.00,0.00,,29.02,-29.02,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Hessah Bin Moammar,-4187.04,-4187.04,0.00,0.0%,-2093.52,-2093.52,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Higher Institure for Water & Power Technology,167337.80,167337.80,0.00,0.0%,56140.47,111197.32,198.1%
-Total Assets,Total Assets,Current Assets,Current assets,Hind Al Mubayedh,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Hiren Valji Patel,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Hitesh Kishanbhai Patel,-5667.04,-5667.04,0.00,0.0%,-2833.52,-2833.52,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Honorio Antonio Benavides Sanchez,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Huda  Serhan,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Husam Al-Ghailani,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Hussam AL-Hussami,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Idrees Javed,0.00,0.00,0.00,,29.02,-29.02,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Implementation - Professional Services,6730082.75,6730082.75,0.00,0.0%,4353153.97,2376928.78,54.6%
-Total Assets,Total Assets,Current Assets,Current assets,Infrastructure Services - Professional Services,124169.24,124169.24,0.00,0.0%,53317.41,70851.83,132.9%
-Total Assets,Total Assets,Current Assets,Current assets,Interest receivable - ABC bank,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Interest receivables - Fixed / term deposits – Banks - ABB,0.00,0.00,0.00,,182400.76,-182400.76,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Interest receivables - Fixed / term deposits - Banks – ABC,0.00,0.00,0.00,,200291.74,-200291.74,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Interest receivables - Fixed / term deposits – Banks - Al Bilad,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Interest receivables - Fixed / term deposits – Banks - Al Jazira,0.00,0.00,0.00,,662028.73,-662028.73,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Interest receivables - Fixed / term deposits - Banks - ALRAJHI,0.00,0.00,0.00,,3259212.50,-3259212.50,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Interest receivables - Fixed / term deposits - Banks - ANB,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Interest receivables - Fixed / term deposits - Banks - BSF,0.00,0.00,0.00,,221087.36,-221087.36,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Interest receivables - Fixed / term deposits – Banks - CBI,2463102.45,2463102.45,0.00,0.0%,901028.32,1562074.14,173.4%
-Total Assets,Total Assets,Current Assets,Current assets,Interest receivables - Fixed / term deposits - Banks - ENDB,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Interest receivables - Fixed / term deposits – Banks - FAB,80790.78,80790.78,0.00,0.0%,4689.56,76101.22,1622.8%
-Total Assets,Total Assets,Current Assets,Current assets,Interest receivables - Fixed / term deposits - Banks – INMA,0.00,0.00,0.00,,373163.11,-373163.11,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Interest receivables - Fixed / term deposits - Banks - RIYAD BANK,0.00,0.00,0.00,,2067828.33,-2067828.33,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Interest receivables - Fixed / term deposits - Banks - SABB,0.00,0.00,0.00,,124753.98,-124753.98,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Interest receivables - Fixed / term deposits - Banks - SAIB,0.00,0.00,0.00,,744932.97,-744932.97,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Interest receivables - Fixed / term deposits - Banks - SCB,0.00,0.00,0.00,,4155.86,-4155.86,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Interest receivables - Fixed / term deposits – Banks – SNB,10640.34,10640.34,0.00,0.0%,0.00,10640.34,
-Total Assets,Total Assets,Current Assets,Current assets,Internal costs - Country offices,668758.44,668758.44,0.00,0.0%,,668758.44,
-Total Assets,Total Assets,Current Assets,Current assets,Ishaq AlHAmmadi,0.00,0.00,0.00,,68.82,-68.82,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Ishaq Hassan Jasem Hasan Al Hammadi,0.00,0.00,0.00,,94.85,-94.85,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Issam Amara,0.00,0.00,0.00,,46.82,-46.82,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Jagdishkumar Shah,0.00,0.00,0.00,,68.82,-68.82,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Jaime Soto,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Jakson Arabia Limited,0.00,0.00,0.00,,1548473.97,-1548473.97,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Jennifer B. Osabel,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,John Harrison Clark,17.95,17.95,0.00,0.0%,0.00,17.95,
-Total Assets,Total Assets,Current Assets,Current assets,Jonathan William Gallagher,0.00,0.00,0.00,,-750.98,750.98,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Jovita Miranda,0.00,0.00,0.00,,-10.69,10.69,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Joya Goswami,0.00,0.00,0.00,,50.87,-50.87,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Kalyan Noorani,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Kapila Eranda Saman Karunathilaka Mudiyanselage,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Kashif Mahboob Rana,0.00,0.00,0.00,,-0.02,0.02,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Kemal Akat,0.00,0.00,0.00,,37.09,-37.09,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Khaja Altaf Ahmed,0.00,0.00,0.00,,29.02,-29.02,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Khaled Almedbel,0.00,0.00,0.00,,184.12,-184.12,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Khaled Ashour Ahmed Azab Hassanein,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Khaled Nadwani,0.00,0.00,0.00,,198.22,-198.22,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Khalid Abunayyan,8677.44,8677.44,0.00,0.0%,4338.72,4338.72,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Kinda Albowilid,-426.39,-426.39,0.00,0.0%,-213.19,-213.19,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Kumru Ozocak Carkit,0.00,0.00,0.00,,70.85,-70.85,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Larsen & Toubro International FZE,18135496.33,18135496.33,0.00,0.0%,1711175.95,16424320.38,959.8%
-Total Assets,Total Assets,Current Assets,Current assets,Latifa Ali,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Legal Consult.,159899891.21,159899891.21,0.00,0.0%,72260848.53,87639042.68,121.3%
-Total Assets,Total Assets,Current Assets,Current assets,Leslie Mathew Abraham,0.00,0.00,0.00,,-101.49,101.49,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Levente Deak,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Liam Roy Wealleans,0.00,0.00,0.00,,-275.58,275.58,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Licenses & Subscriptions,3989951.48,3989951.48,0.00,0.0%,950347.78,3039603.70,319.8%
-Total Assets,Total Assets,Current Assets,Current assets,Line Sandrine Bitar,0.00,0.00,0.00,,5.98,-5.98,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,M. Nabil Nafeaa,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Madina Basha,0.00,0.00,0.00,,431.04,-431.04,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Maged Al Goaid,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Mahmood  Basurrah,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Mansour Abutalib,30.82,30.82,0.00,0.0%,53979.99,-53949.17,-99.9%
-Total Assets,Total Assets,Current Assets,Current assets,Manuel Emilio Martin Rodriquez,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Marco Arcelli,-30823.00,-30823.00,0.00,0.0%,-15411.50,-15411.50,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Marketing expenses (allocated),51.86,51.86,0.00,0.0%,25.93,25.93,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Marsh Arabia Insurance Brokerage LLC,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Mashhour  AlGhamdi,0.00,0.00,0.00,,4171.65,-4171.65,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Mashhour Al Saadi,-5254.21,-5254.21,0.00,0.0%,2399.65,-7653.86,-319.0%
-Total Assets,Total Assets,Current Assets,Current assets,Meals & Entertain.,1477962.47,1477962.47,0.00,0.0%,738981.24,738981.23,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Mehdi Boukezzata,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Meriem Bellizim Harrar,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Michelle D Costa,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Mir Dawar Ali,49504.90,49504.90,0.00,0.0%,35244.71,14260.19,40.5%
-Total Assets,Total Assets,Current Assets,Current assets,Mir Dawar Ali -Riyadh,184.54,184.54,0.00,0.0%,,184.54,
-Total Assets,Total Assets,Current Assets,Current assets,Moath Al Shonaify,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Mohamad Nathar Gowda,329.14,329.14,0.00,0.0%,,329.14,
-Total Assets,Total Assets,Current Assets,Current assets,Mohamed Abdulraziq Ahmed,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Mohamed Ahmed Youssef Ahmed,0.00,0.00,0.00,,137.64,-137.64,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Mohamed AlAssmari,0.00,0.00,0.00,,1638.12,-1638.12,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Mohamed Fata Nahas,0.01,0.01,0.00,0.0%,,0.01,
-Total Assets,Total Assets,Current Assets,Current assets,Mohamed Nassef,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Mohammed Al Ajmi,0.00,0.00,0.00,,70.32,-70.32,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Mohammed AlHasan,17.52,17.52,0.00,0.0%,,17.52,
-Total Assets,Total Assets,Current Assets,Current assets,Mohammed AlKadi,0.00,0.00,0.00,,377.02,-377.02,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Mohammed Mubashir Ali,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Mohsen Alsalmi,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Mothana Alodhaib,0.00,0.00,0.00,,3036.73,-3036.73,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Mubadala Infrastructure Partners Energy -MIPEL,16445.20,16445.20,0.00,0.0%,8222.60,8222.60,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Muhammad Aijaz Umer,0.00,0.00,0.00,,700.84,-700.84,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Muhammad Ghifari Ridwan,0.00,0.00,0.00,,-246.56,246.56,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Muhammad Ghulam Subhani,0.00,0.00,0.00,,488.61,-488.61,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Muhammad Kaloozi,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Muhammad Muzammil,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Muhammad Naeem,0.00,0.00,0.00,,103.23,-103.23,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Muhammad Saad Aijaz Umer,0.00,0.00,0.00,,-0.01,0.01,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,"Muhammad Waseem Shahzad, Mr.",0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Muhammed Ammar  Fahim,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Muhammed Fayis Vayyattu Kavil,809.78,809.78,0.00,0.0%,110.41,699.37,633.4%
-Total Assets,Total Assets,Current Assets,Current assets,Muhammed Naveed,102.55,102.55,0.00,0.0%,,102.55,
-Total Assets,Total Assets,Current Assets,Current assets,Muneera  Aljbreen,-426.39,-426.39,0.00,0.0%,-213.19,-213.19,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Murtada Alsafi,485.06,485.06,0.00,0.0%,745.42,-260.37,-34.9%
-Total Assets,Total Assets,Current Assets,Current assets,Mushaal  AlJulaifi,-206.46,-206.46,0.00,0.0%,-103.23,-103.23,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Mutlaq Alenzy,342.47,342.47,0.00,0.0%,,342.47,
-Total Assets,Total Assets,Current Assets,Current assets,Nadeem Rizvi,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Nadeem Rizvi R -HEPCO,206.46,206.46,0.00,0.0%,103.23,103.23,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Nafeesa Mehraj,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Naif Abdullah Felemban,0.00,0.00,0.00,,1011.14,-1011.14,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Naomi Elizabeth Diria,0.00,0.00,0.00,,-134.65,134.65,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Naseem Zaya,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Nguyen Van Tau -Vietnam office,1539.98,1539.98,0.00,0.0%,769.99,769.99,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Nikhil  Shetty,-645.12,-645.12,0.00,0.0%,-322.56,-322.56,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Nishit Bharatbhai Adhiya,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Nizar Abdulsamad Ahmed Alrushaid,0.00,0.00,0.00,,1128.51,-1128.51,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,None,3458472741.02,3458472741.02,0.00,0.0%,618433238.16,2840039502.86,459.2%
-Total Assets,Total Assets,Current Assets,Current assets,Nouf Alelweet,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Omair Iqbal,0.00,0.00,0.00,,1687.89,-1687.89,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Omar Al Hassan,0.00,0.00,0.00,,229.80,-229.80,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Omar Alhadad,0.00,0.00,0.00,,2729.54,-2729.54,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Omar Wael Mahmoud ElNashar,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,OQ ALTERNATIVE ENERGY LLC.,28015.56,28015.56,0.00,0.0%,14007.78,14007.78,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Other Consult.,31254932.60,31254932.60,0.00,0.0%,14674030.80,16580901.80,113.0%
-Total Assets,Total Assets,Current Assets,Current assets,Other deduction recoverable,135725.52,135725.52,0.00,0.0%,9920.55,125804.96,1268.1%
-Total Assets,Total Assets,Current Assets,Current assets,Other Expenses,48453295.99,48453295.99,0.00,0.0%,24191811.21,24261484.78,100.3%
-Total Assets,Total Assets,Current Assets,Current assets,Others,753448.21,753448.21,0.00,0.0%,569762.70,183685.51,32.2%
-Total Assets,Total Assets,Current Assets,Current assets,Pascal Martese,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Patxi Saez,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Paula Catibog,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Petty Cash - Administration -  Power - Dubai,20945.54,20945.54,0.00,0.0%,13464.99,7480.55,55.6%
-Total Assets,Total Assets,Current Assets,Current assets,Petty Cash - Administration -  Power - Riyadh,197422.11,197422.11,0.00,0.0%,29922.20,167499.90,559.8%
-Total Assets,Total Assets,Current Assets,Current assets,Petty Cash - Finance -  Power - Dubai,5984.44,5984.44,0.00,0.0%,2992.22,2992.22,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Petty Cash - Riyadh- Corp. Legal,29922.20,29922.20,0.00,0.0%,14961.10,14961.10,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Petty Cash -Project Bright - Riyadh,2693.00,2693.00,0.00,0.0%,1346.50,1346.50,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Philip Bousted,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,"Postage, Courier & Telecom",880403.39,880403.39,0.00,-0.0%,440201.67,440201.72,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Pradeep Mullapally,0.00,0.00,0.00,,55.06,-55.06,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Prepaid (C) - Employee Medical Insurance,177923.65,177923.65,0.00,0.0%,213172.22,-35248.57,-16.5%
-Total Assets,Total Assets,Current Assets,Current assets,Prepaid (C) - Housing Allowance,8922841.43,8922841.43,0.00,0.0%,5536599.09,3386242.34,61.2%
-Total Assets,Total Assets,Current Assets,Current assets,Prepaid (C) - LC Commission,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Prepaid (C) - License Fee,3561186.23,3561186.23,0.00,0.0%,223263.94,3337922.29,1495.1%
-Total Assets,Total Assets,Current Assets,Current assets,Prepaid (C) - Life Insurance,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Prepaid (C) - Listing Fee,-0.01,-0.01,0.00,0.0%,,-0.01,
-Total Assets,Total Assets,Current Assets,Current assets,Prepaid (C) - LNTP Payment,0.00,0.00,0.00,,3646768.40,-3646768.40,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Prepaid (C) - Medical Insurance,1769372.78,1769372.78,0.00,0.0%,1223605.19,545767.59,44.6%
-Total Assets,Total Assets,Current Assets,Current assets,Prepaid (C) - Other Insurance,5268523.48,5268523.48,0.00,0.0%,3548888.18,1719635.30,48.5%
-Total Assets,Total Assets,Current Assets,Current assets,Prepaid (C) - Others,-0.19,-0.19,0.00,0.0%,0.03,-0.21,-788.9%
-Total Assets,Total Assets,Current Assets,Current assets,Prepaid (C) - PDBI Insurance,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Prepaid (C) - Rental,256846.24,256846.24,0.00,0.0%,98297.42,158548.82,161.3%
-Total Assets,Total Assets,Current Assets,Current assets,Prepaid (C) - SAGIA Licence fee,3091.94,3091.94,0.00,0.0%,0.00,3091.94,
-Total Assets,Total Assets,Current Assets,Current assets,Prepaid (C) - Subscription,57600.24,57600.24,0.00,0.0%,25294.13,32306.11,127.7%
-Total Assets,Total Assets,Current Assets,Current assets,Prepaid (C) - Upfront Fee,2502244.21,2502244.21,0.00,0.0%,2307126.48,195117.73,8.5%
-Total Assets,Total Assets,Current Assets,Current assets,Prepaid (C) – VAT Offshore,3301458.79,3301458.79,0.00,0.0%,1650729.40,1650729.40,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Priyesh Veetil,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Project Horizon,0.00,0.00,0.00,,26601.59,-26601.59,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Provision,-124587594.47,-124587594.47,0.00,0.0%,-44863051.15,-79724543.32,-177.7%
-Total Assets,Total Assets,Current Assets,Current assets,Provision for Credit Card and Travel ticket balance,-985479.92,-985479.92,0.00,0.0%,-492739.96,-492739.96,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Provision for KIPP - MIP,-1594231.00,-1594231.00,0.00,0.0%,-797115.50,-797115.50,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Qamrun Qaisrani,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Radwa Hany Ibrahim Sarhan,0.01,0.01,0.00,0.0%,,0.01,
-Total Assets,Total Assets,Current Assets,Current assets,Rajul Nema,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Rakan Alharbi,423.10,423.10,0.00,0.0%,211.55,211.55,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Rami  Al Yusuf,10.17,10.17,0.00,0.0%,,10.17,
-Total Assets,Total Assets,Current Assets,Current assets,Randhir Kumar,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Rangabhyregowda Bettaswamaih,0.01,0.01,0.00,0.0%,,0.01,
-Total Assets,Total Assets,Current Assets,Current assets,Rashed Alsadran,1575.70,1575.70,0.00,0.0%,,1575.70,
-Total Assets,Total Assets,Current Assets,Current assets,Ratul Das,0.00,0.00,0.00,,1678.47,-1678.47,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Rayan Mohammed Abdulghani,-299.22,-299.22,0.00,0.0%,6853.38,-7152.60,-104.4%
-Total Assets,Total Assets,Current Assets,Current assets,Receivable from ASRA,1330433.60,1330433.60,0.00,0.0%,665216.80,665216.80,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Receivable KIPP - MIP,1594231.00,1594231.00,0.00,0.0%,797115.50,797115.50,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Recovery of Costs,-737313291.78,-737313291.78,0.00,0.0%,-343270190.89,-394043100.89,-114.8%
-Total Assets,Total Assets,Current Assets,Current assets,Reem Alzwaidi,212.15,212.15,0.00,0.0%,106.07,106.07,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Rehan Baig,432.94,432.94,0.00,0.0%,0.00,432.94,
-Total Assets,Total Assets,Current Assets,Current assets,Richard Cruz,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Ritchie Luperia,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Romina Hashemi Fesharaky,0.00,0.00,0.00,,-2.54,2.54,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Ruben Gomez,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Ryann Cruz Villamater,0.00,0.00,0.00,,420.00,-420.00,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Sabina Irfan Khandwani,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Saeed Bosaeed,247.76,247.76,0.00,0.0%,,247.76,
-Total Assets,Total Assets,Current Assets,Current assets,Safedrive HSSE recoverable from Intercopmany,53192.09,53192.09,0.00,0.0%,28439.72,24752.38,87.0%
-Total Assets,Total Assets,Current Assets,Current assets,Saif Al Qahtani,0.00,0.00,0.00,,72.28,-72.28,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Salary advance recoverable,97028.05,97028.05,0.00,0.0%,58794.80,38233.25,65.0%
-Total Assets,Total Assets,Current Assets,Current assets,Sambit Pattnaik,-609.22,-609.22,0.00,0.0%,-304.61,-304.61,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Sami Al Harbi- R AM-Jeddah,0.00,0.00,0.00,,70.02,-70.02,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Sami AlHArbi,910.83,910.83,0.00,0.0%,481.05,429.78,89.3%
-Total Assets,Total Assets,Current Assets,Current assets,Samir Abdulaziz Dowairij Al Dowairij,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Samuel Carlos Valderas,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Samuel Echevarri,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Sara Abdulsalam Bin Dekhail,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Sarah Al Harthey,6651.01,6651.01,0.00,0.0%,598.44,6052.57,1011.4%
-Total Assets,Total Assets,Current Assets,Current assets,Sarah Saleh Al Harthey,0.00,0.00,0.00,,7467.82,-7467.82,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Saranya Paneer Selvam,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Saud Alzahrani,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Saud Matari,0.00,0.00,0.00,,812.51,-812.51,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Sawan Kumar,-11597.72,-11597.72,0.00,0.0%,-5798.86,-5798.86,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Senali Dinushika Palisena,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,SEPCO III Electric Power Construction,7139433.92,7139433.92,0.00,0.0%,3569716.96,3569716.96,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,SEPCOIII ELECTRIC POWER CONSTRUCTION CO. LTD (DMCC BRANCH),11364412.09,11364412.09,0.00,0.0%,15517595.45,-4153183.36,-26.8%
-Total Assets,Total Assets,Current Assets,Current assets,Sergio Casimiro,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Shahzad Rasheed,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Shahzeb  Afridi,110.11,110.11,0.00,0.0%,55.06,55.06,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Shakeel Anwar,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Shanghai Electric HongKong Company Ltd,16891920.98,16891920.98,0.00,0.0%,8445960.49,8445960.49,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Sharifah Alsuniad,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Shariq Mubin Ur Rahman Rahman,0.00,0.00,0.00,,2783.10,-2783.10,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Shariq Naseem,0.00,0.00,0.00,,-12.25,12.25,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Sharzima Imtiaz Mukhri,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Shatha Salem,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Sheikh Adnan Ali,0.00,0.00,0.00,,11.52,-11.52,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Shiby Varughese,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Simon Watson,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Sirine Taheri,0.00,0.00,0.00,,-131.94,131.94,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Sivakumar Lakshman,0.00,0.00,0.00,,-12381.78,12381.78,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Somshekhar  Wachche,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Sreenivasulu Narayanakatta,-31082.59,-31082.59,0.00,0.0%,-15541.29,-15541.29,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Srishti Sharma,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Staff cost (allocated),610063057.68,610063057.68,0.00,0.0%,270466235.86,339596821.82,125.6%
-Total Assets,Total Assets,Current Assets,Current assets,Suguna Balram,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Suhaib Alghamdi,2423.76,2423.76,0.00,0.0%,1211.88,1211.88,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Sulaiman Turki,0.00,0.00,0.00,,25.61,-25.61,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Suntharesan Padmanathan,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Sushil Singh,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,SW Maintenance - Professional Services,341426.31,341426.31,0.00,0.0%,94436.47,246989.84,261.5%
-Total Assets,Total Assets,Current Assets,Current assets,Swaroop Iyer,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Syed Mohsin Zaidi,0.00,0.00,0.00,,29.02,-29.02,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Syed Nabeel Ahmad,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Syed Zeeshan Jilani,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Taimur Nasir,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Takaya Watanabe - Jakarta Office,0.00,0.00,0.00,,68.82,-68.82,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Talal AlTayar,-2274.09,-2274.09,0.00,0.0%,-1137.04,-1137.04,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Talal Al-Tayar,0.00,0.00,0.00,,91.18,-91.18,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Tariq Basakran,0.00,0.00,0.00,,2907.38,-2907.38,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Tariq Mehrez Taibah,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Tariq Nada,0.00,0.00,0.00,,2661.75,-2661.75,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Technical Consult.,168858247.13,168858247.13,0.00,0.0%,73504376.03,95353871.10,129.7%
-Total Assets,Total Assets,Current Assets,Current assets,Thamer Saud Alsharhan,71575.91,71575.91,0.00,0.0%,35446.40,36129.51,101.9%
-Total Assets,Total Assets,Current Assets,Current assets,"Thomas Altmann,",0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Thomas Boehringer,116956.46,116956.46,0.00,0.0%,58478.23,58478.23,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,TIE JUN International (HK) Ltd.,23233285.31,23233285.31,0.00,0.0%,15214555.58,8018729.73,52.7%
-Total Assets,Total Assets,Current Assets,Current assets,Touiba Jdahim,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Uqba Javed,0.00,0.00,0.00,,29.02,-29.02,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Usman Anwar,16.07,16.07,0.00,0.0%,8.03,8.03,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU040670004000014832--IC -Reciept/Payment,-746447.80,-746447.80,0.00,0.0%,-368339.10,-378108.70,-102.7%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU050670004000014814-API Riyadh-Capital Rec/Pmt,815240744.10,815240744.10,0.00,0.0%,328143238.43,487097505.67,148.4%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU100670004000015112-AP Green EH Ltd-IC -Reciept/Payment,-93175644.67,-93175644.67,0.00,0.0%,-40284370.28,-52891274.38,-131.3%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU110670004000014803-API Dubai-IC -Reciept/Payment,-175811741.17,-175811741.17,0.00,0.0%,-83841527.28,-91970213.88,-109.7%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU140670004000014846--Capital Rec/Pmt,339883631.96,339883631.96,0.00,0.0%,167170271.99,172713359.96,103.3%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU160670004000054386-APGS-3rd Party Fee-reimb,82859335.97,82859335.97,0.00,0.0%,41429667.98,41429667.98,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU170670004000014792-APBH WLL-IC -Reciept/Payment,-24970092.84,-24970092.84,0.00,0.0%,-12564141.65,-12405951.20,-98.7%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU190670004000014950 -PAC-IC -Reciept/Payment,-357565.19,-357565.19,0.00,0.0%,-148486.87,-209078.32,-140.8%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU210670004000015108-AP Taweelah PHCO-IC -Reciept/Payment,-25134649.83,-25134649.83,0.00,0.0%,-12265306.86,-12869342.97,-104.9%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU210670004000054393-JIZ1-APJE Capital Receipts-Payments,207186600.09,207186600.09,0.00,0.0%,54418946.36,152767653.73,280.7%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU220670004000014993-AP Conventional E Ltd-Capital Rec/Pmt,149564987.70,149564987.70,0.00,0.0%,74782493.85,74782493.85,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU230670004000014781-APGS Rep-IC -Reciept/Payment,-1328374.28,-1328374.28,0.00,0.0%,-1338421.43,10047.15,0.8%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU230670004000014781-APGSR-IC -Reciept/Payment,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU250670004000014745-AP CM Ltd-Capital Rec/Pmt,40095.75,40095.75,0.00,0.0%,8976.66,31119.09,346.7%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU280670004000015079-AP fewa PHCO-IC -Reciept/Payment,-1496110.05,-1496110.05,0.00,0.0%,-846022.24,-650087.81,-76.8%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU290670004000014964-OASIS 2-IC -Reciept/Payment,-165505.70,-165505.70,0.00,0.0%,-7974468.30,7808962.60,97.9%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU300670004000015140-AP Treasury HCO-Main A/C,106795.70,106795.70,0.00,0.0%,-2317978.23,2424773.93,104.6%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU310670004000014831-AP Treasury HCO-Rec. Account,72194.59,72194.59,0.00,0.0%,-2147756.70,2219951.29,103.4%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU330670004000014892-AP KHL WLL-IC -Reciept/Payment,786958.65,786958.65,0.00,0.0%,-346488.02,1133446.67,327.1%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU330670004000014892-APKHL_WLL-IC -Reciept/Payment,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU380670004000014802-API Dubai-Capital Rec/Pmt,175822860.56,175822860.56,0.00,0.0%,87911430.28,87911430.28,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU440670004000014791-APBH WLL-Capital Rec/Pmt,24981561.36,24981561.36,0.00,0.0%,12490780.68,12490780.68,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU440670004000015082-AP Luxor PHCO-Capital Rec/Pmt,232.70,232.70,0.00,0.0%,116.35,116.35,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU480670004000014816-API Riyadh-3rd Party Fee-reimb,225442997.91,225442997.91,0.00,0.0%,41167240.97,184275756.94,447.6%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU480670004000054392-JIZ1-APJE Inter-Co Receipts-Payments,-206821579.00,-206821579.00,0.00,0.0%,-54358463.13,-152463115.87,-280.5%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU490670004000015089 - Al Waha,-540310.13,-540310.13,0.00,0.0%,-247385.18,-292924.95,-118.4%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU500670004000014780-APGS Rep-Capital Rec/Pmt,1327181.28,1327181.28,0.00,0.0%,663590.64,663590.64,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU510670004000014956-APCPPMA-Capital Rec/Pmt,329731788.60,329731788.60,0.00,0.0%,100392361.98,229339426.62,228.4%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU560670004000014769--IC -Reciept/Payment,-13462383.87,-13462383.87,0.00,0.0%,-6619185.23,-6843198.64,-103.4%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU560670004000014769-KAHROMAA-IC -Reciept/Payment,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU560670004000014963-OASIS 2-Capital Rec/Pmt,170598.45,170598.45,0.00,0.0%,85299.23,85299.23,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU570670004000014848--IC -Reciept/Payment,-339883632.08,-339883632.08,0.00,0.0%,-163218043.20,-176665588.87,-108.2%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU570670004000015139-Capital receipts-payments A/C,17212597.25,17212597.25,0.00,0.0%,2995885.70,14216711.55,474.5%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU590670004000054388-APGS-IC -Reciept/Payment,53321288.22,53321288.22,0.00,0.0%,30717183.30,22604104.92,73.6%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU600670004000014891-AP KHL WLL-Capital Rec/Pmt,718132.85,718132.85,0.00,0.0%,359066.43,359066.43,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU610670004000014873-AP Oasis 2-IC -Reciept/Payment,297922.93,297922.93,0.00,0.0%,148961.46,148961.46,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU640670004000015110-AP Taweelah -Reciept/Payment,25134649.91,25134649.91,0.00,0.0%,12567324.96,12567324.96,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU660670000043993652-AICO Ltd-IC -Reciept/Payment,17953321.36,17953321.36,0.00,0.0%,,17953321.36,
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU710670004000015081-AP Luxor PHCO-IC -Reciept/Payment,-339608.65,-339608.65,0.00,0.0%,-163224.64,-176384.02,-108.1%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU750670004000014815-API Riyadh-IC -Reciept/Payment,-1041007240.56,-1041007240.56,0.00,0.0%,-376622229.57,-664385011.00,-176.4%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU770670004000014973-APP-IC -Reciept/Payment,3173131.10,3173131.10,0.00,0.0%,3033132.32,139998.77,4.6%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU800670004000015113-AP Green EH Ltd-Capital Rec/Pmt,93582065.82,93582065.82,0.00,0.0%,41715904.74,51866161.09,124.3%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU830670004000014768-KAHROMAA-Capital Rec/Pmt,13240574.51,13240574.51,0.00,0.0%,6620287.25,6620287.25,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU840670004000015138-Inter-company receipt-payments A/C,-17212597.00,-17212597.00,0.00,0.0%,-4681418.07,-12531178.92,-267.7%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU860670004000014908-AP Plovidiv H Ltd-IC -Reciept/Payment,-183403.32,-183403.32,0.00,0.0%,-48202.19,-135201.13,-280.5%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU860670004000054387-APGS-Capital Rec/Pmt,-136394054.04,-136394054.04,0.00,0.0%,-71889735.60,-64504318.44,-89.7%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU870670004000014793-APBH WLL-3rd Party Fee-reimb,145222.42,145222.42,0.00,0.0%,72611.21,72611.21,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU870670004000101218-APEC-Third Party Receipt Fees-Reimb,706256053.91,706256053.91,0.00,0.0%,193158300.32,513097753.59,265.6%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU870670004000101219-APEC-Inter-Company Receipts-Payments,-831982429.61,-831982429.61,0.00,0.0%,-258555248.38,-573427181.23,-221.8%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU870670004000101220-APEC-Capital Receipts-Payments,125091427.29,125091427.29,0.00,0.0%,62545713.64,62545713.64,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU890670004000014757-MSC-IC -Reciept/Payment,-956510.80,-956510.80,0.00,0.0%,-435678.33,-520832.46,-119.5%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU920670004000014994-AP CE Ltd-IC -Reciept/Payment,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU920670004000014994-AP Conventional E Ltd-IC -Reciept/Payment,-149564987.77,-149564987.77,0.00,0.0%,-75710312.34,-73854675.43,-97.5%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU940670004000014958-APCPPMA-IC -Reciept/Payment,-329486717.83,-329486717.83,0.00,0.0%,-100427465.37,-229059252.47,-228.1%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU950670004000014746-AP CM Ltd-IC -Reciept/Payment,-258600.57,-258600.57,0.00,0.0%,-105922.97,-152677.60,-144.1%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU980670004000014886-KHL-IC -Reciept/Payment,-18235.60,-18235.60,0.00,0.0%,-6887.53,-11348.06,-164.8%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU980670004000014983-APSEWD Company-IC -Reciept/Payment,0.31,0.31,0.00,0.0%,55012.06,-55011.75,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU980670004000015080-AP fewa PHCO-Capital Rec/Pmt,1496110.11,1496110.11,0.00,0.0%,748055.06,748055.06,100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Veera Ragavalu Radhakrishnan,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Venkata Krishna Vakacharla,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Verbund AG,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Vijaya Pydi Sankara Rao Madhavarapu,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Vimal Ekambaram,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Vinay Menon,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Vinit Lahoti,0.00,0.00,0.00,,9.45,-9.45,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Vinod Vijay,-660.92,-660.92,0.00,0.0%,-330.46,-330.46,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Vision Invest (Formerly as  Holding Limited),19797.36,19797.36,0.00,0.0%,2147.18,17650.19,822.0%
-Total Assets,Total Assets,Current Assets,Current assets,Vlad Moscalu,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Wael  Alanazi,960.50,960.50,0.00,0.0%,,960.50,
-Total Assets,Total Assets,Current Assets,Current assets,Wael Alajlan,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Wael AlHArbi’,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,"Water and Environmental Technologies Co., Ltd.",0.00,0.00,0.00,,3871184.92,-3871184.92,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Willard Bustamante Bohol,0.02,0.02,0.00,0.0%,29.02,-29.00,-99.9%
-Total Assets,Total Assets,Current Assets,Current assets,Work insurance,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Write off,-249213398.07,-249213398.07,0.00,0.0%,-121276961.51,-127936436.55,-105.5%
-Total Assets,Total Assets,Current Assets,Current assets,Yahya Hamidaddin,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Yara Anabtawi,0.00,0.00,0.00,,3022.71,-3022.71,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Yasir Mahmoud,0.00,0.00,0.00,,1783.06,-1783.06,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Yousef Almousa,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Youssef Hassan,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Yunhe LYU,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Zahid Hussain,0.00,0.00,0.00,,958.41,-958.41,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Zainab AlQudaihi,-426.39,-426.39,0.00,0.0%,-213.19,-213.19,-100.0%
-Total Assets,Total Assets,Current Assets,Current assets,Zakia Jabri-Abbadi,0.00,0.00,0.00,,0.00,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Zameel Kasim,203.47,203.47,0.00,0.0%,,203.47,
-Total Assets,Total Assets,Current Assets,Current assets,Zeeshan Hyder Maqbool Ahmed Qureshi,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Current Assets,Current assets,Zeeshan Hyder Maqbool Ahmed Qureshi Ali Ahmed Zahid Hyder,0.00,0.00,0.00,,1087.86,-1087.86,-100.0%
-Total Assets,Total Assets,Non current assets,Non current assets, Power SAP Success Factors Implementation - HCM system,329892.28,329892.28,0.00,0.0%,98967.68,230924.60,233.3%
-Total Assets,Total Assets,Non current assets,Non current assets,Adjustment for Common Control Transactions,-387047503.89,-387047503.89,0.00,0.0%,-193523751.94,-193523751.94,-100.0%
-Total Assets,Total Assets,Non current assets,Non current assets,Advances against investment,9257860035.01,9257860035.01,0.00,0.0%,4168830678.17,5089029356.84,122.1%
-Total Assets,Total Assets,Non current assets,Non current assets,Cost of investment,5229624264.41,5229624264.41,0.00,0.0%,2733120591.33,2496503673.08,91.3%
-Total Assets,Total Assets,Non current assets,Non current assets,Enterprise Data Management Cloud Service,64931.18,64931.18,0.00,0.0%,20936.68,43994.50,210.1%
-Total Assets,Total Assets,Non current assets,Non current assets,Fixed Asset Default Account,76675678.31,76675678.31,0.00,0.0%,36640298.95,40035379.36,109.3%
-Total Assets,Total Assets,Non current assets,Non current assets,FV of interest rate swaps [IRS] (Asset - NC),44247565.53,44247565.53,0.00,0.0%,30886948.23,13360617.30,43.3%
-Total Assets,Total Assets,Non current assets,Non current assets,GRC Tool,0.00,0.00,0.00,,36138.84,-36138.84,-100.0%
-Total Assets,Total Assets,Non current assets,Non current assets,Hassyan Derivative adjustment,36023571.86,36023571.86,0.00,0.0%,18011785.93,18011785.93,100.0%
-Total Assets,Total Assets,Non current assets,Non current assets,Investment in shares assigned,1044060.44,1044060.44,0.00,0.0%,,1044060.44,
-Total Assets,Total Assets,Non current assets,Non current assets,Laptops,0.00,0.00,0.00,,99940.16,-99940.16,-100.0%
-Total Assets,Total Assets,Non current assets,Non current assets,LNTP,485736745.64,485736745.64,0.00,0.0%,11807749.85,473928995.79,4013.7%
-Total Assets,Total Assets,Non current assets,Non current assets,MISA/Shareek Grant - NGHC - 1st Tranch,-70736086.18,-70736086.18,0.00,0.0%,,-70736086.18,
-Total Assets,Total Assets,Non current assets,Non current assets,Mobile & Tablets,0.00,0.00,0.00,,3900.68,-3900.68,-100.0%
-Total Assets,Total Assets,Non current assets,Non current assets,None,13008946980.20,13008946980.20,0.00,0.0%,5740261147.42,7268685832.78,126.6%
-Total Assets,Total Assets,Non current assets,Non current assets,Office Building,16187.91,16187.91,0.00,0.0%,8093.96,8093.96,100.0%
-Total Assets,Total Assets,Non current assets,Non current assets,Office Interior and fittings,488489.23,488489.23,0.00,0.0%,1755839.97,-1267350.74,-72.2%
-Total Assets,Total Assets,Non current assets,Non current assets,Oracle Fusion,433816.77,433816.77,0.00,0.0%,184626.62,249190.15,135.0%
-Total Assets,Total Assets,Non current assets,Non current assets,Prepaid (NC) - License Fee,0.00,0.00,0.00,,,0.00,
-Total Assets,Total Assets,Non current assets,Non current assets,Prepaid (NC) - Rental,29114.30,29114.30,0.00,0.0%,,29114.30,
-Total Assets,Total Assets,Non current assets,Non current assets,Professional Service,18290001.32,18290001.32,0.00,0.0%,9130039.93,9159961.39,100.3%
-Total Assets,Total Assets,Non current assets,Non current assets,Share holder loans (assumed equity),384827.02,384827.02,0.00,0.0%,192413.51,192413.51,100.0%
-Total Assets,Total Assets,Non current assets,Non current assets,Share of profit & reserves [Nominal],-0.17,-0.17,0.00,0.0%,0.01,-0.18,-2033.3%
-Total Assets,Total Assets,Non current assets,Non current assets,Staff and staff related costs,5561596.76,5561596.76,0.00,0.0%,1448791.46,4112805.30,283.9%
-Total Assets,Total Assets,Non current assets,Non current assets,Technical Building,27620127.53,27620127.53,0.00,0.0%,151171.31,27468956.23,18170.7%
-Total Equity & Liabilities,Equity,Equity,Hedge reserves,None,-60756614.33,-60756614.33,0.00,0.0%,-12856836.70,-47899777.64,-372.6%
-Total Equity & Liabilities,Equity,Equity,Shareholders funds,Al Mutlaq Group Company,-125611639.74,-125611639.74,0.00,0.0%,-62805819.87,-62805819.87,-100.0%
-Total Equity & Liabilities,Equity,Equity,Shareholders funds,Al Toukhi Commercial Group Co,-9320760.02,-9320760.02,0.00,0.0%,-4660380.01,-4660380.01,-100.0%
-Total Equity & Liabilities,Equity,Equity,Shareholders funds,Arabian Co for Water & Power Development,-995333237.58,-995333237.58,0.00,0.0%,-497666618.79,-497666618.79,-100.0%
-Total Equity & Liabilities,Equity,Equity,Shareholders funds,Badad International Company,-17709419.51,-17709419.51,0.00,0.0%,-8854709.75,-8854709.75,-100.0%
-Total Equity & Liabilities,Equity,Equity,Shareholders funds,Future Industrial Investments Co,-17709419.51,-17709419.51,0.00,0.0%,-8854709.75,-8854709.75,-100.0%
-Total Equity & Liabilities,Equity,Equity,Shareholders funds,Mada Industrial and Trading Invest,-490237330.94,-490237330.94,0.00,0.0%,-245118665.47,-245118665.47,-100.0%
-Total Equity & Liabilities,Equity,Equity,Shareholders funds,Mohammad Abdullah Abu Nayan,-159494027.53,-159494027.53,0.00,0.0%,-79747013.76,-79747013.76,-100.0%
-Total Equity & Liabilities,Equity,Equity,Shareholders funds,None,-10065265679.90,-10065265679.90,0.00,0.0%,-5049298796.69,-5015966883.22,-99.3%
-Total Equity & Liabilities,Equity,Equity,Shareholders funds,PIF - Public Investment Fund,-2718126592.46,-2718126592.46,0.00,0.0%,-1359063296.23,-1359063296.23,-100.0%
-Total Equity & Liabilities,Equity,Equity,Shareholders funds,Share issue cost,17164768.53,17164768.53,0.00,0.0%,8582384.27,8582384.27,100.0%
-Total Equity & Liabilities,Equity,Equity,System default accounts,Fixed Asset Default Account,0.00,0.00,0.00,,0.00,0.00,
-Total Equity & Liabilities,Equity,Equity,System default accounts,None,92.27,92.27,0.00,0.0%,46.15,46.13,100.0%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,10%_VAT_LOCAL_OUTPUT,-16830.64,-16830.64,0.00,0.0%,,-16830.64,
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,15%_VAT_LOCAL_OUTPT,-12115415.61,-12115415.61,0.00,0.0%,-2132401.63,-9983013.99,-468.2%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,5%_VAT_LOCAL_OUTPT,-71544.69,-71544.69,0.00,0.0%,-232745.34,161200.65,69.3%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual - AMEX Expesnes,-2569814.09,-2569814.09,0.00,0.0%,-2023211.46,-546602.63,-27.0%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual - Nam Dhin,-1121.43,-1121.43,0.00,0.0%,-560.72,-560.72,-100.0%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual - Staff Medical Insurance,0.00,0.00,0.00,,,0.00,
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) -  Services Charges,-64870.04,-64870.04,0.00,0.0%,-50230.39,-14639.64,-29.1%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) - Annual report related consultancy,0.00,0.00,0.00,,0.00,0.00,
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) - Audit Fee,-1428878.44,-1428878.44,0.00,0.0%,-1053977.81,-374900.63,-35.6%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) - Board Executive Committee -BEC,0.00,0.00,0.00,,-27802.71,27802.71,100.0%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) - Bonus,-43883828.00,-43883828.00,0.00,0.0%,-27709051.54,-16174776.46,-58.4%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C)  CSR HIWPT,-1530181.39,-1530181.39,0.00,0.0%,-1064312.72,-465868.67,-43.8%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) - HR related consultancy,-47652.29,-47652.29,0.00,0.0%,-140485.10,92832.81,66.1%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) - IT related Consultancy,-330550.57,-330550.57,0.00,0.0%,-275801.10,-54749.47,-19.9%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) - Leave Payment,-28794122.36,-28794122.36,0.00,0.0%,-21220724.98,-7573397.39,-35.7%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) - LG Commission,23751141.00,23751141.00,0.00,0.0%,-3876382.91,27627523.91,712.7%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) - Other consultancy services,-80609.24,-80609.24,0.00,0.0%,-65818.05,-14791.19,-22.5%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) - Others,-69402.14,-69402.14,0.00,0.0%,-3459738.44,3390336.30,98.0%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) - PR related consultancy,0.00,0.00,0.00,,-6732.50,6732.50,100.0%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) - Remuneration - Board Audit Committee,0.00,0.00,0.00,,-26007.50,26007.50,100.0%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) - Remuneration - Board of Directors,0.00,0.00,0.00,,-102283.81,102283.81,100.0%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) - Remuneration - Nomination and Remuneration Committee,0.00,0.00,0.00,,-23189.71,23189.71,100.0%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) - Remuneration - Risk Management & Oversight Committee,0.00,0.00,0.00,,-20197.49,20197.49,100.0%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) - Rent,-307070.09,-307070.09,0.00,0.0%,,-307070.09,
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) - Social Insurance,-74342.27,-74342.27,0.00,0.0%,-676734.08,602391.82,89.0%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) - Tax consultancy,-1120195.36,-1120195.36,0.00,0.0%,-915809.15,-204386.21,-22.3%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,"Accrual for Gifts, Donations",-94800.27,-94800.27,0.00,0.0%,-47400.13,-47400.13,-100.0%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual for IPO cost,-572674.17,-572674.17,0.00,0.0%,-271695.72,-300978.44,-110.8%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual for PDC,-1396867.87,-1396867.87,0.00,0.0%,-3169213.18,1772345.31,55.9%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual of Digitalization costs,-158271.13,-158271.13,0.00,0.0%,-2131573.81,1973302.68,92.6%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual of Other deferred costs,-2218735.95,-2218735.95,0.00,0.0%,,-2218735.95,
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual -Unwinding of Discount on Mezziane,0.00,0.00,0.00,,-4263361.87,4263361.87,100.0%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,"Accruals ,,",-0.42,-0.42,0.00,0.0%,-20641.39,20640.98,100.0%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrued expenses - Other Staff related,-13150.26,-13150.26,0.00,0.0%,-6575.13,-6575.13,-100.0%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrued expenses - Others,-6039698.55,-6039698.55,0.00,0.0%,-2075218.88,-3964479.67,-191.0%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrued Software license fee,-266596.90,-266596.90,0.00,0.0%,-8805.23,-257791.67,-2927.7%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Chint Solar (Hong Kong),-6262630.01,-6262630.01,0.00,0.0%,-3131315.00,-3131315.00,-100.0%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,CSR ( Corporate Social Responsibilites),-10084479.63,-10084479.63,0.00,0.0%,,-10084479.63,
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,CSR Provision - Non sharia compliant interest,-277163.50,-277163.50,0.00,0.0%,-138581.75,-138581.75,-100.0%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,FV of interest rate swaps [IRS] (Liability - C),-196249213.23,-196249213.23,0.00,0.0%,,-196249213.23,
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Interest accrual – STPC Bond,-278134.26,-278134.26,0.00,0.0%,-286508.79,8374.53,2.9%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Interest accrual - SUKUK,-5232594.70,-5232594.70,0.00,0.0%,-8060771.59,2828176.89,35.1%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Interest accrual - SUKUK 2,-11855733.99,-11855733.99,0.00,0.0%,0.00,-11855733.99,
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Interest payable – EBL,0.00,0.00,0.00,,-392854.25,392854.25,100.0%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Interest payable - ENBD,-10320.17,-10320.17,0.00,0.0%,,-10320.17,
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Interest payable - NATIXIS,10550.66,10550.66,0.00,0.0%,,10550.66,
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Interest payable - SNB,-0.01,-0.01,0.00,0.0%,,-0.01,
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Legal fees,-113192.75,-113192.75,0.00,0.0%,-75907.07,-37285.67,-49.1%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Legal related Consultancy,-62270.22,-62270.22,0.00,0.0%,-158775.64,96505.43,60.8%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Long Term Loan (C) - Corporate Revolver Facility API,0.00,0.00,0.00,,-0.12,0.12,100.0%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Long term loans (Capital outstanding) (C) - STPC Refinancing,-2788661.51,-2788661.51,0.00,0.0%,-1358031.71,-1430629.80,-105.3%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,LTL  (C)- Commercial Facility,0.00,0.00,0.00,,-0.12,0.12,100.0%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,None,-2216372101.74,-2216372101.74,0.00,0.0%,-551036618.68,-1665335483.06,-302.2%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Other Payable-Employees,-61467.85,-61467.85,0.00,0.0%,-45848.73,-15619.11,-34.1%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,PO Accrual,-14362.72,-14362.72,0.00,0.0%,,-14362.72,
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Provision for zakat,196085.43,196085.43,0.00,0.0%,,196085.43,
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,SAGIA Licence fee,-37099.15,-37099.15,0.00,0.0%,-17953.32,-19145.83,-106.6%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Staff IPO Grant Liability,-818445.66,-818445.66,0.00,0.0%,-695022.62,-123423.04,-17.8%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,VAT OFFSET 10%,-908.69,-908.69,0.00,0.0%,0.07,-908.76,-1265450.0%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,VAT OFFSET 15%,-38937295.46,-38937295.46,0.00,0.0%,-7515896.38,-31421399.08,-418.1%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,VAT OFFSET 5%,-1641760.23,-1641760.23,0.00,0.0%,-132964.70,-1508795.54,-1134.7%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,WHT Clearing Account,140770.04,140770.04,0.00,0.0%,8045.66,132724.39,1649.6%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,WHT payable,-305635.13,-305635.13,0.00,0.0%,1392674.81,-1698309.95,-121.9%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,Actuarial Adjustment EOS,5333808.19,5333808.19,0.00,0.0%,-1260588.32,6594396.52,523.1%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,Deferred finance cost - SUKUK,3423743.37,3423743.37,0.00,0.0%,2150982.53,1272760.84,59.2%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,Deferred finance cost - SUKUK - 2,3177625.76,3177625.76,0.00,0.0%,1875432.31,1302193.45,69.4%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,Discount on Other Payables (NC),56928600.24,56928600.24,0.00,0.0%,37858986.71,19069613.52,50.4%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,ENBD,-268185952.36,-268185952.36,0.00,0.0%,-50652755.67,-217533196.69,-429.5%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,FV of interest rate swaps [IRS] - ABSA Bank Limited,0.00,0.00,0.00,,-10198440.32,10198440.32,100.0%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,FV of interest rate swaps [IRS] (Liability - NC),-591046.53,-591046.53,0.00,0.0%,-6976344.03,6385297.50,91.5%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,FV of purchased call option (Liability - NC),-1651705.57,-1651705.57,0.00,0.0%,-825852.78,-825852.78,-100.0%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,LTL  (NC) -  Commercial Facility -Long term,-42466390.02,-42466390.02,0.00,0.0%,-73029275.49,30562885.47,41.9%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,LTL (NC) - Islamic finance facility,-107719928.19,-107719928.19,0.00,0.0%,-53859964.09,-53859964.09,-100.0%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,NATIXIS,-83620832.88,-83620832.88,0.00,0.0%,-39944108.19,-43676724.69,-109.3%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,None,-9095785874.48,-9095785874.48,0.00,0.0%,-4092209040.08,-5003576834.40,-122.3%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,Office Rent,0.00,0.00,0.00,,,0.00,
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,Payable for shares assigned,-1044060.44,-1044060.44,0.00,0.0%,,-1044060.44,
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,Secondment,0.00,0.00,0.00,,,0.00,
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,SNB,-447377330.59,-447377330.59,0.00,0.0%,-147183450.06,-300193880.53,-204.0%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,STPC Refinancing,-87417044.76,-87417044.76,0.00,0.0%,-45102853.14,-42314191.63,-93.8%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,Sukuk - 2028,-1675643327.35,-1675643327.35,0.00,0.0%,-837821663.67,-837821663.67,-100.0%
-Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,SUKUK 2,-1077199281.87,-1077199281.87,0.00,0.0%,-538599640.93,-538599640.93,-100.0%
+Total Assets,Total Assets,Current Assets,Current assets,Design - Professional Services,921772.36,921772.36,0,0%,676248.94,245523.43,36.30%
+Total Assets,Total Assets,Current Assets,Current assets,5%_REVERSE_CHARGE,960806.52,960806.52,0,0%,66507.93,894298.6,1344.60%
+Total Assets,Total Assets,Current Assets,Current assets,Design - Internal Personnel,981225.35,981225.35,0,0%,490612.68,490612.67,100.00%
+Total Assets,Total Assets,Current Assets,Current assets,Credit Card and Travel ticket balance,985479.92,985479.92,0,0%,492739.96,492739.96,100.00%
+Total Assets,Total Assets,Current Assets,Current assets,Current AC-API DUBAI-MASHREQ-AED-AC 19000003982-Payroll,1282239.41,1282239.41,0,0%,303607.67,978631.74,322.30%
+Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU500670004000014780-APGS Rep-Capital Rec/Pmt,1327181.28,1327181.28,0,0%,663590.64,663590.64,100.00%
+Total Assets,Total Assets,Current Assets,Current assets,Receivable from ASRA,1330433.6,1330433.6,0,0%,665216.8,665216.8,100.00%
+Total Assets,Total Assets,Current Assets,Current assets,Current AC-APMI 1-SCB-USD-AC 02-2347322-01-Collection account,1333709.29,1333709.29,0,0%,552041.04,781668.25,141.60%
+Total Assets,Total Assets,Current Assets,Current assets,Meals & Entertain.,1477962.47,1477962.47,0,0%,738981.24,738981.23,100.00%
+Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU980670004000015080-AP fewa PHCO-Capital Rec/Pmt,1496110.11,1496110.11,0,0%,748055.06,748055.06,100.00%
+Total Assets,Total Assets,Current Assets,Current assets,Receivable KIPP - MIP,1594231,1594231,0,0%,797115.5,797115.5,100.00%
+Total Assets,Total Assets,Current Assets,Current assets,Chint Solar (Hong Kong),1683123.88,1683123.88,0,0%,,1683123.88,
+Total Assets,Total Assets,Current Assets,Current assets,Prepaid (C) - Medical Insurance,1769372.78,1769372.78,0,0%,1223605.19,545767.59,44.60%
+Total Assets,Total Assets,Current Assets,Current assets,Current AC-APREHL-FAB-USD-AC 1031001922013017,1780166.8,1780166.8,0,0%,22447.11,1757719.69,7830.50%
+Total Assets,Total Assets,Current Assets,Current assets,Employee personal loans recoverable,1833881.3,1833881.3,0,0%,1246536.27,587345.03,47.10%
+Total Assets,Total Assets,Current Assets,Current assets,Current AC-API RIYADH-SABB-USD-AC 011-290988-080-Payment,2039185.03,2039185.03,0,0%,3973428.55,-1934243.53,-48.70%
+Total Assets,Total Assets,Current Assets,Current assets,Current AC-API-Riyadh ARAB BANK BAHRAIN-USD-BH91ARAB 02001002600510,2136412.09,2136412.09,0,0%,100779.26,2035632.82,2019.90%
+Total Assets,Total Assets,Current Assets,Current assets,Current AC-SMOMCO-BSF-SAR-AC 608127-001-41-Payment,2161458.62,2161458.62,0,0%,194357.5,1967101.12,1012.10%
+Total Assets,Total Assets,Current Assets,Current assets,Interest receivables - Fixed / term deposits – Banks - CBI,2463102.45,2463102.45,0,0%,901028.32,1562074.14,173.40%
+Total Assets,Total Assets,Current Assets,Current assets,Prepaid (C) - Upfront Fee,2502244.21,2502244.21,0,0%,2307126.48,195117.73,8.50%
+Total Assets,Total Assets,Current Assets,Current assets,Current AC-APID-USD-CBI-100012294076,2584754.75,2584754.75,0,0%,,2584754.75,
+Total Assets,Total Assets,Current Assets,Current assets,Fixed Deposit - Saudi National Bank - SAR,2692998.2,2692998.2,0,0%,0,2692998.2,
+Total Assets,Total Assets,Current Assets,Current assets,"CHINA Gezhouba Group International Engineering Co., Ltd.",2804692.46,2804692.46,0,0%,1402346.23,1402346.23,100.00%
+Total Assets,Total Assets,Current Assets,Current assets,Current AC-APP-SABB-SAR-AC 001-317544-001-Payment,2883325.8,2883325.8,0,0%,1025.54,2882300.25,281050.70%
+Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU770670004000014973-APP-IC -Reciept/Payment,3173131.1,3173131.1,0,0%,3033132.32,139998.77,4.60%
+Total Assets,Total Assets,Current Assets,Current assets,Current Account JPM - APGS - USD - 6550205613,3254789.62,3254789.62,0,0%,2354356.2,900433.41,38.20%
+Total Assets,Total Assets,Current Assets,Current assets,Prepaid (C) – VAT Offshore,3301458.79,3301458.79,0,0%,1650729.4,1650729.4,100.00%
+Total Assets,Total Assets,Current Assets,Current assets,HDEC MIDDLE EAST CO DMCC,3513729.8,3513729.8,0,0%,17673606.37,-14159876.57,-80.10%
+Total Assets,Total Assets,Current Assets,Current assets,Prepaid (C) - License Fee,3561186.23,3561186.23,0,0%,223263.94,3337922.29,1495.10%
+Total Assets,Total Assets,Current Assets,Current assets,Licenses & Subscriptions,3989951.48,3989951.48,0,0%,950347.78,3039603.7,319.80%
+Total Assets,Total Assets,Current Assets,Current assets,15% VAT LOCAL INPUT,4697573.48,4697573.48,0,0%,1471749.34,3225824.14,219.20%
+Total Assets,Total Assets,Current Assets,Current assets,Current AC- API RIYADH-DIVERSITY VAM DUM-USD-AC 10207,4777106.45,4777106.45,0,0%,8416296.27,-3639189.83,-43.20%
+Total Assets,Total Assets,Current Assets,Current assets,Prepaid (C) - Other Insurance,5268523.48,5268523.48,0,0%,3548888.18,1719635.3,48.50%
+Total Assets,Total Assets,Current Assets,Current assets,Accrual - Service Charges Income,5520659.56,5520659.56,0,0%,8205235.74,-2684576.18,-32.70%
+Total Assets,Total Assets,Current Assets,Current assets,Current AC-AP CE-FAB USD-AC 1031001960717018,5986403.88,5986403.88,0,0%,1088.36,5985315.51,549937.30%
+Total Assets,Total Assets,Current Assets,Current assets,AIR PRODUCTS Middle East Industrial Gases LLC,6040037.98,6040037.98,0,0%,8926838.23,-2886800.25,-32.30%
+Total Assets,Total Assets,Current Assets,Current assets,Five Capital,6513030.64,6513030.64,0,0%,3256515.37,3256515.27,100.00%
+Total Assets,Total Assets,Current Assets,Current assets,Implementation - Professional Services,6730082.75,6730082.75,0,0%,4353153.97,2376928.78,54.60%
+Total Assets,Total Assets,Current Assets,Current assets,SEPCO III Electric Power Construction,7139433.92,7139433.92,0,0%,3569716.96,3569716.96,100.00%
+Total Assets,Total Assets,Current Assets,Current assets,"CHINA ENERGY ENGINEERING GROUP GUANGDONG POWER ENGINEERING (HONG KONG) Co., LTD",7389934.54,7389934.54,0,0%,,7389934.54,
+Total Assets,Total Assets,Current Assets,Current assets,Prepaid (C) - Housing Allowance,8922841.43,8922841.43,0,0%,5536599.09,3386242.34,61.20%
+Total Assets,Total Assets,Current Assets,Current assets,Current Ac - JPM - LU570670006550206152-AP Treasury,9065157.74,9065157.74,0,0%,2753541.86,6311615.87,229.20%
+Total Assets,Total Assets,Current Assets,Current assets,Current AC-AP CE-FAB-SAR-4031001960717001,9253207.49,9253207.49,0,0%,,9253207.49,
+Total Assets,Total Assets,Current Assets,Current assets,15%_REVERSE_CHARGE,9604583.16,9604583.16,0,0%,7044928.9,2559654.26,36.30%
+Total Assets,Total Assets,Current Assets,Current assets,External Parties (EPC / PM&A Fees),10542306.06,10542306.06,0,0%,1231589.9,9310716.15,756.00%
+Total Assets,Total Assets,Current Assets,Current assets,Current AC-API RIYADH-SABB-SAR-AC 011-290988-001-Payment,10802634.46,10802634.46,0,0%,1959952.97,8842681.49,451.20%
+Total Assets,Total Assets,Current Assets,Current assets,Bid Bond Comm.,11288509.99,11288509.99,0,0%,5643487.8,5645022.19,100.00%
+Total Assets,Total Assets,Current Assets,Current assets,SEPCOIII ELECTRIC POWER CONSTRUCTION CO. LTD (DMCC BRANCH),11364412.09,11364412.09,0,0%,15517595.45,-4153183.36,-26.80%
+Total Assets,Total Assets,Current Assets,Current assets,Current AC-BARKA-Mashrek-USD-AC AE920330000019000046256-Payment,11878191.42,11878191.42,0,0%,286.61,11877904.81,4144233.80%
+Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU830670004000014768-KAHROMAA-Capital Rec/Pmt,13240574.51,13240574.51,0,0%,6620287.25,6620287.25,100.00%
+Total Assets,Total Assets,Current Assets,Current assets,Current AC -AIICO-SCB- USD - SA2891000000101700232501,16512207.76,16512207.76,0,0%,,16512207.76,
+Total Assets,Total Assets,Current Assets,Current assets,Shanghai Electric HongKong Company Ltd,16891920.98,16891920.98,0,0%,8445960.49,8445960.49,100.00%
+Total Assets,Total Assets,Current Assets,Current assets,"China Energy Engineering Group Zhejing Thermal Power Construction Co., LTD",17044691.63,17044691.63,0,0%,14100288.67,2944402.97,20.90%
+Total Assets,Total Assets,Current Assets,Current assets,CHINA Energy Engineering Group Guangdong Power Engineering Co. Ltd (Dubai Branch),17158898.92,17158898.92,0,0%,8579449.46,8579449.46,100.00%
+Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU570670004000015139-Capital receipts-payments A/C,17212597.25,17212597.25,0,0%,2995885.7,14216711.55,474.50%
+Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU660670000043993652-AICO Ltd-IC -Reciept/Payment,17953321.36,17953321.36,0,0%,,17953321.36,
+Total Assets,Total Assets,Current Assets,Current assets,Larsen & Toubro International FZE,18135496.33,18135496.33,0,0%,1711175.95,16424320.38,959.80%
+Total Assets,Total Assets,Current Assets,Current assets,TIE JUN International (HK) Ltd.,23233285.31,23233285.31,0,0%,15214555.58,8018729.73,52.70%
+Total Assets,Total Assets,Current Assets,Current assets,Green Technology Company,24648660.23,24648660.23,0,0%,,24648660.23,
+Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU440670004000014791-APBH WLL-Capital Rec/Pmt,24981561.36,24981561.36,0,0%,12490780.68,12490780.68,100.00%
+Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU640670004000015110-AP Taweelah -Reciept/Payment,25134649.91,25134649.91,0,0%,12567324.96,12567324.96,100.00%
+Total Assets,Total Assets,Current Assets,Current assets,15% VAT IMPORT,29125364.11,29125364.11,0,0%,464234.98,28661129.13,6173.80%
+Total Assets,Total Assets,Current Assets,Current assets,Other Consult.,31254932.6,31254932.6,0,0%,14674030.8,16580901.8,113.00%
+Total Assets,Total Assets,Current Assets,Current assets,"Boarding, Lodging & Travel",37054225.33,37054225.33,0,0%,17021822.2,20032403.12,117.70%
+Total Assets,Total Assets,Current Assets,Current assets,Other Expenses,48453295.99,48453295.99,0,0%,24191811.21,24261484.78,100.30%
+Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU590670004000054388-APGS-IC -Reciept/Payment,53321288.22,53321288.22,0,0%,30717183.3,22604104.92,73.60%
+Total Assets,Total Assets,Current Assets,Current assets,China Energy International Group Company Limited (Saudi Branch),60527707.97,60527707.97,0,0%,,60527707.97,
+Total Assets,Total Assets,Current Assets,Current assets,Development fee,61163083.11,61163083.11,0,0%,30581541.56,30581541.56,100.00%
+Total Assets,Total Assets,Current Assets,Current assets,Financial Consult.,79177777.12,79177777.12,0,0%,37992377.16,41185399.96,108.40%
+Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU160670004000054386-APGS-3rd Party Fee-reimb,82859335.97,82859335.97,0,0%,41429667.98,41429667.98,100.00%
+Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU800670004000015113-AP Green EH Ltd-Capital Rec/Pmt,93582065.82,93582065.82,0,0%,41715904.74,51866161.09,124.30%
+Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU870670004000101220-APEC-Capital Receipts-Payments,125091427.3,125091427.3,0,0%,62545713.64,62545713.64,100.00%
+Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU220670004000014993-AP Conventional E Ltd-Capital Rec/Pmt,149564987.7,149564987.7,0,0%,74782493.85,74782493.85,100.00%
+Total Assets,Total Assets,Current Assets,Current assets,Legal Consult.,159899891.2,159899891.2,0,0%,72260848.53,87639042.68,121.30%
+Total Assets,Total Assets,Current Assets,Current assets,Fixed Deposit - CBI,164570197.5,164570197.5,0,0%,124284784.6,40285412.93,32.40%
+Total Assets,Total Assets,Current Assets,Current assets,Technical Consult.,168858247.1,168858247.1,0,0%,73504376.03,95353871.1,129.70%
+Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU380670004000014802-API Dubai-Capital Rec/Pmt,175822860.6,175822860.6,0,0%,87911430.28,87911430.28,100.00%
+Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU210670004000054393-JIZ1-APJE Capital Receipts-Payments,207186600.1,207186600.1,0,0%,54418946.36,152767653.7,280.70%
+Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU480670004000014816-API Riyadh-3rd Party Fee-reimb,225442997.9,225442997.9,0,0%,41167240.97,184275756.9,447.60%
+Total Assets,Total Assets,Current Assets,Current assets,Fixed Deposit - FAB - USD,294374626,294374626,0,0%,2094554.16,292280071.8,13954.30%
+Total Assets,Total Assets,Current Assets,Current assets,"Doosan Enerbility Co., Ltd.",328845003,328845003,0,0%,,328845003,
+Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU510670004000014956-APCPPMA-Capital Rec/Pmt,329731788.6,329731788.6,0,0%,100392362,229339426.6,228.40%
+Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU140670004000014846--Capital Rec/Pmt,339883632,339883632,0,0%,167170272,172713360,103.30%
+Total Assets,Total Assets,Current Assets,Current assets,Staff cost (allocated),610063057.7,610063057.7,0,0%,270466235.9,339596821.8,125.60%
+Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU870670004000101218-APEC-Third Party Receipt Fees-Reimb,706256053.9,706256053.9,0,0%,193158300.3,513097753.6,265.60%
+Total Assets,Total Assets,Current Assets,Current assets,VAM AC-JPM-LU050670004000014814-API Riyadh-Capital Rec/Pmt,815240744.1,815240744.1,0,0%,328143238.4,487097505.7,148.40%
+Total Assets,Total Assets,Current Assets,Current assets,None,3458472741,3458472741,0,0%,618433238.2,2840039503,459.20%
+Total Assets,Total Assets,Non current assets,Non current assets, Power SAP Success Factors Implementation - HCM system,329892.28,329892.28,0,0%,98967.68,230924.6,233.30%
+Total Assets,Total Assets,Non current assets,Non current assets,Adjustment for Common Control Transactions,-387047503.9,-387047503.9,0,0%,-193523751.9,-193523751.9,-100.00%
+Total Assets,Total Assets,Non current assets,Non current assets,Advances against investment,9257860035,9257860035,0,0%,4168830678,5089029357,122.10%
+Total Assets,Total Assets,Non current assets,Non current assets,Cost of investment,5229624264,5229624264,0,0%,2733120591,2496503673,91.30%
+Total Assets,Total Assets,Non current assets,Non current assets,Enterprise Data Management Cloud Service,64931.18,64931.18,0,0%,20936.68,43994.5,210.10%
+Total Assets,Total Assets,Non current assets,Non current assets,Fixed Asset Default Account,76675678.31,76675678.31,0,0%,36640298.95,40035379.36,109.30%
+Total Assets,Total Assets,Non current assets,Non current assets,FV of interest rate swaps [IRS] (Asset - NC),44247565.53,44247565.53,0,0%,30886948.23,13360617.3,43.30%
+Total Assets,Total Assets,Non current assets,Non current assets,GRC Tool,0,0,0,,36138.84,-36138.84,-100.00%
+Total Assets,Total Assets,Non current assets,Non current assets,Hassyan Derivative adjustment,36023571.86,36023571.86,0,0%,18011785.93,18011785.93,100.00%
+Total Assets,Total Assets,Non current assets,Non current assets,Investment in shares assigned,1044060.44,1044060.44,0,0%,,1044060.44,
+Total Assets,Total Assets,Non current assets,Non current assets,Laptops,0,0,0,,99940.16,-99940.16,-100.00%
+Total Assets,Total Assets,Non current assets,Non current assets,LNTP,485736745.6,485736745.6,0,0%,11807749.85,473928995.8,4013.70%
+Total Assets,Total Assets,Non current assets,Non current assets,MISA/Shareek Grant - NGHC - 1st Tranch,-70736086.18,-70736086.18,0,0%,,-70736086.18,
+Total Assets,Total Assets,Non current assets,Non current assets,Mobile & Tablets,0,0,0,,3900.68,-3900.68,-100.00%
+Total Assets,Total Assets,Non current assets,Non current assets,None,13008946980,13008946980,0,0%,5740261147,7268685833,126.60%
+Total Assets,Total Assets,Non current assets,Non current assets,Office Building,16187.91,16187.91,0,0%,8093.96,8093.96,100.00%
+Total Assets,Total Assets,Non current assets,Non current assets,Office Interior and fittings,488489.23,488489.23,0,0%,1755839.97,-1267350.74,-72.20%
+Total Assets,Total Assets,Non current assets,Non current assets,Oracle Fusion,433816.77,433816.77,0,0%,184626.62,249190.15,135.00%
+Total Assets,Total Assets,Non current assets,Non current assets,Prepaid (NC) - License Fee,0,0,0,,,0,
+Total Assets,Total Assets,Non current assets,Non current assets,Prepaid (NC) - Rental,29114.3,29114.3,0,0%,,29114.3,
+Total Assets,Total Assets,Non current assets,Non current assets,Professional Service,18290001.32,18290001.32,0,0%,9130039.93,9159961.39,100.30%
+Total Assets,Total Assets,Non current assets,Non current assets,Share holder loans (assumed equity),384827.02,384827.02,0,0%,192413.51,192413.51,100.00%
+Total Assets,Total Assets,Non current assets,Non current assets,Share of profit & reserves [Nominal],-0.17,-0.17,0,0%,0.01,-0.18,-2033.30%
+Total Assets,Total Assets,Non current assets,Non current assets,Staff and staff related costs,5561596.76,5561596.76,0,0%,1448791.46,4112805.3,283.90%
+Total Assets,Total Assets,Non current assets,Non current assets,Technical Building,27620127.53,27620127.53,0,0%,151171.31,27468956.23,18170.70%
+Total Equity & Liabilities,Equity,Equity,Hedge reserves,None,-60756614.33,-60756614.33,0,0%,-12856836.7,-47899777.64,-372.60%
+Total Equity & Liabilities,Equity,Equity,Shareholders funds,Al Mutlaq Group Company,-125611639.7,-125611639.7,0,0%,-62805819.87,-62805819.87,-100.00%
+Total Equity & Liabilities,Equity,Equity,Shareholders funds,Al Toukhi Commercial Group Co,-9320760.02,-9320760.02,0,0%,-4660380.01,-4660380.01,-100.00%
+Total Equity & Liabilities,Equity,Equity,Shareholders funds,Arabian Co for Water & Power Development,-995333237.6,-995333237.6,0,0%,-497666618.8,-497666618.8,-100.00%
+Total Equity & Liabilities,Equity,Equity,Shareholders funds,Badad International Company,-17709419.51,-17709419.51,0,0%,-8854709.75,-8854709.75,-100.00%
+Total Equity & Liabilities,Equity,Equity,Shareholders funds,Future Industrial Investments Co,-17709419.51,-17709419.51,0,0%,-8854709.75,-8854709.75,-100.00%
+Total Equity & Liabilities,Equity,Equity,Shareholders funds,Mada Industrial and Trading Invest,-490237330.9,-490237330.9,0,0%,-245118665.5,-245118665.5,-100.00%
+Total Equity & Liabilities,Equity,Equity,Shareholders funds,Mohammad Abdullah Abu Nayan,-159494027.5,-159494027.5,0,0%,-79747013.76,-79747013.76,-100.00%
+Total Equity & Liabilities,Equity,Equity,Shareholders funds,None,-10065265680,-10065265680,0,0%,-5049298797,-5015966883,-99.30%
+Total Equity & Liabilities,Equity,Equity,Shareholders funds,PIF - Public Investment Fund,-2718126592,-2718126592,0,0%,-1359063296,-1359063296,-100.00%
+Total Equity & Liabilities,Equity,Equity,Shareholders funds,Share issue cost,17164768.53,17164768.53,0,0%,8582384.27,8582384.27,100.00%
+Total Equity & Liabilities,Equity,Equity,System default accounts,Fixed Asset Default Account,0,0,0,,0,0,
+Total Equity & Liabilities,Equity,Equity,System default accounts,None,92.27,92.27,0,0%,46.15,46.13,100.00%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,10%_VAT_LOCAL_OUTPUT,-16830.64,-16830.64,0,0%,,-16830.64,
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,15%_VAT_LOCAL_OUTPT,-12115415.61,-12115415.61,0,0%,-2132401.63,-9983013.99,-468.20%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,5%_VAT_LOCAL_OUTPT,-71544.69,-71544.69,0,0%,-232745.34,161200.65,69.30%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual - AMEX Expesnes,-2569814.09,-2569814.09,0,0%,-2023211.46,-546602.63,-27.00%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual - Nam Dhin,-1121.43,-1121.43,0,0%,-560.72,-560.72,-100.00%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual - Staff Medical Insurance,0,0,0,,,0,
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) -  Services Charges,-64870.04,-64870.04,0,0%,-50230.39,-14639.64,-29.10%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) - Annual report related consultancy,0,0,0,,0,0,
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) - Audit Fee,-1428878.44,-1428878.44,0,0%,-1053977.81,-374900.63,-35.60%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) - Board Executive Committee -BEC,0,0,0,,-27802.71,27802.71,100.00%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) - Bonus,-43883828,-43883828,0,0%,-27709051.54,-16174776.46,-58.40%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C)  CSR HIWPT,-1530181.39,-1530181.39,0,0%,-1064312.72,-465868.67,-43.80%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) - HR related consultancy,-47652.29,-47652.29,0,0%,-140485.1,92832.81,66.10%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) - IT related Consultancy,-330550.57,-330550.57,0,0%,-275801.1,-54749.47,-19.90%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) - Leave Payment,-28794122.36,-28794122.36,0,0%,-21220724.98,-7573397.39,-35.70%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) - LG Commission,23751141,23751141,0,0%,-3876382.91,27627523.91,712.70%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) - Other consultancy services,-80609.24,-80609.24,0,0%,-65818.05,-14791.19,-22.50%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) - Others,-69402.14,-69402.14,0,0%,-3459738.44,3390336.3,98.00%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) - PR related consultancy,0,0,0,,-6732.5,6732.5,100.00%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) - Remuneration - Board Audit Committee,0,0,0,,-26007.5,26007.5,100.00%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) - Remuneration - Board of Directors,0,0,0,,-102283.81,102283.81,100.00%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) - Remuneration - Nomination and Remuneration Committee,0,0,0,,-23189.71,23189.71,100.00%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) - Remuneration - Risk Management & Oversight Committee,0,0,0,,-20197.49,20197.49,100.00%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) - Rent,-307070.09,-307070.09,0,0%,,-307070.09,
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) - Social Insurance,-74342.27,-74342.27,0,0%,-676734.08,602391.82,89.00%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual (C) - Tax consultancy,-1120195.36,-1120195.36,0,0%,-915809.15,-204386.21,-22.30%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,"Accrual for Gifts, Donations",-94800.27,-94800.27,0,0%,-47400.13,-47400.13,-100.00%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual for IPO cost,-572674.17,-572674.17,0,0%,-271695.72,-300978.44,-110.80%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual for PDC,-1396867.87,-1396867.87,0,0%,-3169213.18,1772345.31,55.90%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual of Digitalization costs,-158271.13,-158271.13,0,0%,-2131573.81,1973302.68,92.60%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual of Other deferred costs,-2218735.95,-2218735.95,0,0%,,-2218735.95,
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrual -Unwinding of Discount on Mezziane,0,0,0,,-4263361.87,4263361.87,100.00%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,"Accruals ,,",-0.42,-0.42,0,0%,-20641.39,20640.98,100.00%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrued expenses - Other Staff related,-13150.26,-13150.26,0,0%,-6575.13,-6575.13,-100.00%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrued expenses - Others,-6039698.55,-6039698.55,0,0%,-2075218.88,-3964479.67,-191.00%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Accrued Software license fee,-266596.9,-266596.9,0,0%,-8805.23,-257791.67,-2927.70%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Chint Solar (Hong Kong),-6262630.01,-6262630.01,0,0%,-3131315,-3131315,-100.00%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,CSR ( Corporate Social Responsibilites),-10084479.63,-10084479.63,0,0%,,-10084479.63,
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,CSR Provision - Non sharia compliant interest,-277163.5,-277163.5,0,0%,-138581.75,-138581.75,-100.00%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,FV of interest rate swaps [IRS] (Liability - C),-196249213.2,-196249213.2,0,0%,,-196249213.2,
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Interest accrual – STPC Bond,-278134.26,-278134.26,0,0%,-286508.79,8374.53,2.90%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Interest accrual - SUKUK,-5232594.7,-5232594.7,0,0%,-8060771.59,2828176.89,35.10%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Interest accrual - SUKUK 2,-11855733.99,-11855733.99,0,0%,0,-11855733.99,
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Interest payable – EBL,0,0,0,,-392854.25,392854.25,100.00%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Interest payable - ENBD,-10320.17,-10320.17,0,0%,,-10320.17,
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Interest payable - NATIXIS,10550.66,10550.66,0,0%,,10550.66,
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Interest payable - SNB,-0.01,-0.01,0,0%,,-0.01,
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Legal fees,-113192.75,-113192.75,0,0%,-75907.07,-37285.67,-49.10%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Legal related Consultancy,-62270.22,-62270.22,0,0%,-158775.64,96505.43,60.80%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Long Term Loan (C) - Corporate Revolver Facility API,0,0,0,,-0.12,0.12,100.00%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Long term loans (Capital outstanding) (C) - STPC Refinancing,-2788661.51,-2788661.51,0,0%,-1358031.71,-1430629.8,-105.30%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,LTL  (C)- Commercial Facility,0,0,0,,-0.12,0.12,100.00%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,None,-2216372102,-2216372102,0,0%,-551036618.7,-1665335483,-302.20%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Other Payable-Employees,-61467.85,-61467.85,0,0%,-45848.73,-15619.11,-34.10%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,PO Accrual,-14362.72,-14362.72,0,0%,,-14362.72,
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Provision for zakat,196085.43,196085.43,0,0%,,196085.43,
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,SAGIA Licence fee,-37099.15,-37099.15,0,0%,-17953.32,-19145.83,-106.60%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,Staff IPO Grant Liability,-818445.66,-818445.66,0,0%,-695022.62,-123423.04,-17.80%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,VAT OFFSET 10%,-908.69,-908.69,0,0%,0.07,-908.76,-1265450.00%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,VAT OFFSET 15%,-38937295.46,-38937295.46,0,0%,-7515896.38,-31421399.08,-418.10%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,VAT OFFSET 5%,-1641760.23,-1641760.23,0,0%,-132964.7,-1508795.54,-1134.70%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,WHT Clearing Account,140770.04,140770.04,0,0%,8045.66,132724.39,1649.60%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Current liabilities,WHT payable,-305635.13,-305635.13,0,0%,1392674.81,-1698309.95,-121.90%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,Actuarial Adjustment EOS,5333808.19,5333808.19,0,0%,-1260588.32,6594396.52,523.10%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,Deferred finance cost - SUKUK,3423743.37,3423743.37,0,0%,2150982.53,1272760.84,59.20%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,Deferred finance cost - SUKUK - 2,3177625.76,3177625.76,0,0%,1875432.31,1302193.45,69.40%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,Discount on Other Payables (NC),56928600.24,56928600.24,0,0%,37858986.71,19069613.52,50.40%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,ENBD,-268185952.4,-268185952.4,0,0%,-50652755.67,-217533196.7,-429.50%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,FV of interest rate swaps [IRS] - ABSA Bank Limited,0,0,0,,-10198440.32,10198440.32,100.00%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,FV of interest rate swaps [IRS] (Liability - NC),-591046.53,-591046.53,0,0%,-6976344.03,6385297.5,91.50%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,FV of purchased call option (Liability - NC),-1651705.57,-1651705.57,0,0%,-825852.78,-825852.78,-100.00%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,LTL  (NC) -  Commercial Facility -Long term,-42466390.02,-42466390.02,0,0%,-73029275.49,30562885.47,41.90%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,LTL (NC) - Islamic finance facility,-107719928.2,-107719928.2,0,0%,-53859964.09,-53859964.09,-100.00%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,NATIXIS,-83620832.88,-83620832.88,0,0%,-39944108.19,-43676724.69,-109.30%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,None,-9095785874,-9095785874,0,0%,-4092209040,-5003576834,-122.30%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,Office Rent,0,0,0,,,0,
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,Payable for shares assigned,-1044060.44,-1044060.44,0,0%,,-1044060.44,
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,Secondment,0,0,0,,,0,
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,SNB,-447377330.6,-447377330.6,0,0%,-147183450.1,-300193880.5,-204.00%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,STPC Refinancing,-87417044.76,-87417044.76,0,0%,-45102853.14,-42314191.63,-93.80%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,Sukuk - 2028,-1675643327,-1675643327,0,0%,-837821663.7,-837821663.7,-100.00%
+Total Equity & Liabilities,Total Liabilities,Current Liabilities,Non current liabilities,SUKUK 2,-1077199282,-1077199282,0,0%,-538599640.9,-538599640.9,-100.00%
