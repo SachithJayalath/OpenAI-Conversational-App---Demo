@@ -176,7 +176,7 @@ Total Liabilities,Current Liabilities,Legal related Consultancy,-62270.22,-62270
 Total Liabilities,Current Liabilities,Long Term Loan (C) - Corporate Revolver Facility API,0,0,0,0%,-0.12,0.12,100.00%
 Total Liabilities,Current Liabilities,Long term loans (Capital outstanding) (C) - STPC Refinancing,-2788661.51,-2788661.51,0,0%,-1358031.71,-1430629.8,-105.30%
 Total Liabilities,Current Liabilities,LTL  (C)- Commercial Facility,0,0,0,0%,-0.12,0.12,100.00%
-Total Liabilities,Current Liabilities,None,-2216372102,-2216372102,0,0%,-551036618.7,-1665335483,-302.20%
+Total Liabilities,Current Liabilities,Other,-2216372102,-2216372102,0,0%,-551036618.7,-1665335483,-302.20%
 Total Liabilities,Current Liabilities,Other Payable-Employees,-61467.85,-61467.85,0,0%,-45848.73,-15619.11,-34.10%
 Total Liabilities,Current Liabilities,PO Accrual,-14362.72,-14362.72,0,0%,0,-14362.72,
 Total Liabilities,Current Liabilities,Provision for zakat,196085.43,196085.43,0,0%,0,196085.43,
@@ -198,7 +198,7 @@ Total Liabilities,Non current liabilities,FV of purchased call option (Liability
 Total Liabilities,Non current liabilities,LTL  (NC) -  Commercial Facility -Long term,-42466390.02,-42466390.02,0,0%,-73029275.49,30562885.47,41.90%
 Total Liabilities,Non current liabilities,LTL (NC) - Islamic finance facility,-107719928.2,-107719928.2,0,0%,-53859964.09,-53859964.09,-100.00%
 Total Liabilities,Non current liabilities,NATIXIS,-83620832.88,-83620832.88,0,0%,-39944108.19,-43676724.69,-109.30%
-Total Liabilities,Non current liabilities,None,-9095785874,-9095785874,0,0%,-4092209040,-5003576834,-122.30%
+Total Liabilities,Non current liabilities,Other,-9095785874,-9095785874,0,0%,-4092209040,-5003576834,-122.30%
 Total Liabilities,Non current liabilities,Office Rent,0,0,0,0%,0,0,0%
 Total Liabilities,Non current liabilities,Payable for shares assigned,-1044060.44,-1044060.44,0,0%,0,-1044060.44,
 Total Liabilities,Non current liabilities,Secondment,0,0,0,0%,0,0,0%
