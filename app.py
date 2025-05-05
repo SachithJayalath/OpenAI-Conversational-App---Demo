@@ -14,8 +14,6 @@ from dotenv import load_dotenv
 import logging
 import csv
 
-question_count = 0
-
 warnings.filterwarnings("ignore", category=DeprecationWarning)
     
 for name in logging.Logger.manager.loggerDict.keys():
@@ -41,7 +39,9 @@ I will share the ground level report of the account balances for the month janua
 
 5/ Try to give as much as context as possible as the conversational AI agent's response will completely depend on the response you give. When providing numbers or calculation results you can provide the raw data you got from the report as reference so it would be easier for the conversational AI agent to explain it to the user. But always give the final result or the total amount first and then go into details.
 
-6/ If the user's message is asking for a comparison or analysis of the previous month's values or the previous year's values always use the variance values related to that and the variance percentage as well. The variance is the difference between the current actual value and the previous (year/month) actual value, and the variance percentage is the variance divided by the previous value, multiplied by 100. 
+6/ If the user's message is asking for a comparison or analysis of the previous month's values or the previous year's values always use the variance values related to that and the variance percentage as well. The variance is the difference between the current actual value and the previous (year/month) actual value, and the variance percentage is the variance divided by the previous value, multiplied by 100.
+
+7/ If the question is non related to previous year or the previous month only use the actual values (current month) for generating the output no need to get the variance values for the output.  
 
 this is the user's message ; {message}
 
@@ -175,7 +175,7 @@ def return_example(idx):
     examples = {
         1: "What is the total value of my current assets for January 2025?",
         2: "Can you provide a summary of staff expenditures for January 2025?",
-        3: "Can you provide an analysis of the 'AP Control account – Employees' based on the available information?",
+        3: "Can you provide an analysis of the 'PIF - Public Investment Fund' based on the available information?",
         4: "Can you provide a breakdown of all the Current Liability categories we have?",
         5: "Give me a short progress overview about my company"
     }
@@ -185,7 +185,8 @@ def return_example(idx):
 # 6. Streamlit App
 def main():
 
-    global question_count
+    if "question_count" not in st.session_state:
+        st.session_state["question_count"] = 0
 
     st.set_page_config(
         page_title="ACWA Conversational Assistant :satellite::milky_way:", page_icon=":milky_way:")
@@ -207,7 +208,7 @@ def main():
     with col2:
         st.button("Breakdown of Current Liabilities", key="btn4", on_click=lambda: (return_example(4), on_submit()), use_container_width=True)
     with col3:
-        st.button("Analyze AP Control - Employees", key="btn3", on_click=lambda: (return_example(3), on_submit()), use_container_width=True)
+        st.button("Analyze PIF Account for 2025 Jan", key="btn3", on_click=lambda: (return_example(3), on_submit()), use_container_width=True)
     
 
     # Second row of buttons
@@ -231,8 +232,8 @@ def main():
         if message:
             print()
             print("-"*100)
-            question_count += 1
-            print(f"\nQEUSTION ID : Q{question_count}")
+            st.session_state["question_count"] += 1
+            print(f"\nQEUSTION ID : Q{st.session_state['question_count']}")
             print("QUESTION :", message)
             result_th = generate_response_for_thinking(message)
             print("\nRESULT OF THE THINKING MODEL : \n")
