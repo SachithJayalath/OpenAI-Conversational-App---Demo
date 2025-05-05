@@ -14,6 +14,8 @@ from dotenv import load_dotenv
 import logging
 import csv
 
+question_count = 0
+
 warnings.filterwarnings("ignore", category=DeprecationWarning)
     
 for name in logging.Logger.manager.loggerDict.keys():
@@ -183,7 +185,7 @@ def return_example(idx):
 # 6. Streamlit App
 def main():
 
-    question_count = 0
+    global question_count
 
     st.set_page_config(
         page_title="ACWA Conversational Assistant :satellite::milky_way:", page_icon=":milky_way:")
