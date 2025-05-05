@@ -182,6 +182,9 @@ def return_example(idx):
 
 # 6. Streamlit App
 def main():
+
+    question_count = 0
+
     st.set_page_config(
         page_title="ACWA Conversational Assistant :satellite::milky_way:", page_icon=":milky_way:")
 
@@ -224,8 +227,14 @@ def main():
         # st.write("Generating best practice snowflake :snowflake: conversion...")
         message = st.session_state["message"]
         if message:
+            print()
+            print("-"*100)
+            question_count += 1
+            print(f"\nQEUSTION ID : Q{question_count}")
+            print("QUESTION :", message)
             result_th = generate_response_for_thinking(message)
-            print("RESULT OF THE THINKING MODEL :", result_th)
+            print("\nRESULT OF THE THINKING MODEL : \n")
+            print(result_th)
             result_co = generate_response_for_convo(message, result_th)
             st.session_state["result"] = result_co
             st.session_state["show_result"] = True
