@@ -85,7 +85,7 @@ Total Assets,Current Assets,VAM AC-JPM-LU140670004000014846--Capital Rec/Pmt,339
 Total Assets,Current Assets,Staff cost (allocated),610063057.7,610063057.7,0,0%,270466235.9,339596821.8,125.60%
 Total Assets,Current Assets,VAM AC-JPM-LU870670004000101218-APEC-Third Party Receipt Fees-Reimb,706256053.9,706256053.9,0,0%,193158300.3,513097753.6,265.60%
 Total Assets,Current Assets,VAM AC-JPM-LU050670004000014814-API Riyadh-Capital Rec/Pmt,815240744.1,815240744.1,0,0%,328143238.4,487097505.7,148.40%
-Total Assets,Current Assets,None,3458472741,3458472741,0,0%,618433238.2,2840039503,459.20%
+Total Assets,Current Assets,Other,3458472741,3458472741,0,0%,618433238.2,2840039503,459.20%
 Total Assets,Non current assets, Power SAP Success Factors Implementation - HCM system,329892.28,329892.28,0,0%,98967.68,230924.6,233.30%
 Total Assets,Non current assets,Adjustment for Common Control Transactions,-387047503.9,-387047503.9,0,0%,-193523751.9,-193523751.9,-100.00%
 Total Assets,Non current assets,Advances against investment,9257860035,9257860035,0,0%,4168830678,5089029357,122.10%
@@ -100,7 +100,7 @@ Total Assets,Non current assets,Laptops,0,0,0,0%,99940.16,-99940.16,-100.00%
 Total Assets,Non current assets,LNTP,485736745.6,485736745.6,0,0%,11807749.85,473928995.8,4013.70%
 Total Assets,Non current assets,MISA/Shareek Grant - NGHC - 1st Tranch,-70736086.18,-70736086.18,0,0%,0,-70736086.18,
 Total Assets,Non current assets,Mobile & Tablets,0,0,0,0%,3900.68,-3900.68,-100.00%
-Total Assets,Non current assets,None,13008946980,13008946980,0,0%,5740261147,7268685833,126.60%
+Total Assets,Non current assets,Other,13008946980,13008946980,0,0%,5740261147,7268685833,126.60%
 Total Assets,Non current assets,Office Building,16187.91,16187.91,0,0%,8093.96,8093.96,100.00%
 Total Assets,Non current assets,Office Interior and fittings,488489.23,488489.23,0,0%,1755839.97,-1267350.74,-72.20%
 Total Assets,Non current assets,Oracle Fusion,433816.77,433816.77,0,0%,184626.62,249190.15,135.00%
@@ -111,7 +111,7 @@ Total Assets,Non current assets,Share holder loans (assumed equity),384827.02,38
 Total Assets,Non current assets,Share of profit & reserves [Nominal],-0.17,-0.17,0,0%,0.01,-0.18,-2033.30%
 Total Assets,Non current assets,Staff and staff related costs,5561596.76,5561596.76,0,0%,1448791.46,4112805.3,283.90%
 Total Assets,Non current assets,Technical Building,27620127.53,27620127.53,0,0%,151171.31,27468956.23,18170.70%
-Equity,Hedge reserves,None,-60756614.33,-60756614.33,0,0%,-12856836.7,-47899777.64,-372.60%
+Equity,Hedge reserves,Other,-60756614.33,-60756614.33,0,0%,-12856836.7,-47899777.64,-372.60%
 Equity,Shareholders funds,Al Mutlaq Group Company,-125611639.7,-125611639.7,0,0%,-62805819.87,-62805819.87,-100.00%
 Equity,Shareholders funds,Al Toukhi Commercial Group Co,-9320760.02,-9320760.02,0,0%,-4660380.01,-4660380.01,-100.00%
 Equity,Shareholders funds,Arabian Co for Water & Power Development,-995333237.6,-995333237.6,0,0%,-497666618.8,-497666618.8,-100.00%
@@ -119,11 +119,11 @@ Equity,Shareholders funds,Badad International Company,-17709419.51,-17709419.51,
 Equity,Shareholders funds,Future Industrial Investments Co,-17709419.51,-17709419.51,0,0%,-8854709.75,-8854709.75,-100.00%
 Equity,Shareholders funds,Mada Industrial and Trading Invest,-490237330.9,-490237330.9,0,0%,-245118665.5,-245118665.5,-100.00%
 Equity,Shareholders funds,Mohammad Abdullah Abu Nayan,-159494027.5,-159494027.5,0,0%,-79747013.76,-79747013.76,-100.00%
-Equity,Shareholders funds,None,-10065265680,-10065265680,0,0%,-5049298797,-5015966883,-99.30%
+Equity,Shareholders funds,Other,-10065265680,-10065265680,0,0%,-5049298797,-5015966883,-99.30%
 Equity,Shareholders funds,PIF - Public Investment Fund,-2718126592,-2718126592,0,0%,-1359063296,-1359063296,-100.00%
 Equity,Shareholders funds,Share issue cost,17164768.53,17164768.53,0,0%,8582384.27,8582384.27,100.00%
 Equity,System default accounts,Fixed Asset Default Account,0,0,0,0%,0,0,0%
-Equity,System default accounts,None,92.27,92.27,0,0%,46.15,46.13,100.00%
+Equity,System default accounts,Other,92.27,92.27,0,0%,46.15,46.13,100.00%
 Total Liabilities,Current Liabilities,10%_VAT_LOCAL_OUTPUT,-16830.64,-16830.64,0,0%,0,-16830.64,
 Total Liabilities,Current Liabilities,15%_VAT_LOCAL_OUTPT,-12115415.61,-12115415.61,0,0%,-2132401.63,-9983013.99,-468.20%
 Total Liabilities,Current Liabilities,5%_VAT_LOCAL_OUTPT,-71544.69,-71544.69,0,0%,-232745.34,161200.65,69.30%
@@ -156,7 +156,7 @@ Total Liabilities,Current Liabilities,Accrual for PDC,-1396867.87,-1396867.87,0,
 Total Liabilities,Current Liabilities,Accrual of Digitalization costs,-158271.13,-158271.13,0,0%,-2131573.81,1973302.68,92.60%
 Total Liabilities,Current Liabilities,Accrual of Other deferred costs,-2218735.95,-2218735.95,0,0%,0,-2218735.95,
 Total Liabilities,Current Liabilities,Accrual -Unwinding of Discount on Mezziane,0,0,0,0%,-4263361.87,4263361.87,100.00%
-Total Liabilities,Current Liabilities,"Accruals ,,",-0.42,-0.42,0,0%,-20641.39,20640.98,100.00%
+Total Liabilities,Current Liabilities,Accruals,-0.42,-0.42,0,0%,-20641.39,20640.98,100.00%
 Total Liabilities,Current Liabilities,Accrued expenses - Other Staff related,-13150.26,-13150.26,0,0%,-6575.13,-6575.13,-100.00%
 Total Liabilities,Current Liabilities,Accrued expenses - Others,-6039698.55,-6039698.55,0,0%,-2075218.88,-3964479.67,-191.00%
 Total Liabilities,Current Liabilities,Accrued Software license fee,-266596.9,-266596.9,0,0%,-8805.23,-257791.67,-2927.70%
